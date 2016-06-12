@@ -1,0 +1,5 @@
+composer.lock
+*.swp
+bin
+vendor
+error_log

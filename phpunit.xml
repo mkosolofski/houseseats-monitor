@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phpunit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:noNamespaceSchemaLocation="https://schema.phpunit.de/5.3/phpunit.xsd"
+         bootstrap="phpunit_bootstrap.php"
+         colors="true"
+         beStrictAboutCoversAnnotation="true"
+         beStrictAboutOutputDuringTests="true"
+         beStrictAboutTestsThatDoNotTestAnything="true"
+         beStrictAboutTodoAnnotatedTests="true"
+         verbose="true"
+>
+    <testsuite name="My Test Suite">
+        <directory suffix="Test.php">Test</directory>
+    </testsuite>
+
+    <filter>
+        <whitelist processUncoveredFilesFromWhitelist="true">
+            <directory suffix=".php">*</directory>
+            <exclude>
+                <directory suffix=".php">/vendor</directory>
+            </exclude>
+        </whitelist>
+    </filter>
+</phpunit>

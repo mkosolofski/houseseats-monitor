@@ -1,0 +1,48 @@
+services:
+    mkosolofski.monitor.client.active_shows:
+        class: MKosolofski\HouseSeats\MonitorBundle\Client\ActiveShows
+        arguments:
+            - "@mkosolofski.monitor.client.config.bundle"
+            - "@mkosolofski.monitor.client.guzzle"
+            - "@mkosolofski.monitor.client.login"
+            - "@mkosolofski.monitor.page_parser.active_shows"
+            - "@doctrine.orm.entity_manager"
+    
+    mkosolofski.monitor.client.mailer:
+        class: MKosolofski\HouseSeats\MonitorBundle\Client\Mailer
+        arguments:
+            - "@mkosolofski.monitor.client.config.bundle"
+            - "@mailer"
+            - "@twig"
+
+    mkosolofski.monitor.client.guzzle:
+        class: GuzzleHttp\Client
+        factory: [ MKosolofski\HouseSeats\MonitorBundle\Factory\GuzzleClient, getClient ]
+        arguments: [ "@mkosolofski.monitor.client.config.bundle" ]
+
+    mkosolofski.monitor.client.login:
+        class: MKosolofski\HouseSeats\MonitorBundle\Client\Login
+        arguments:
+            - "@mkosolofski.monitor.client.config.bundle"
+            - "@mkosolofski.monitor.client.guzzle"
+            - "@mkosolofski.monitor.page_parser.login"
+
+    mkosolofski.monitor.client.config.bundle:
+        class: MKosolofski\HouseSeats\MonitorBundle\Client\Config\Bundle
+        arguments:
+            - "%mkosolofski.monitor.config%"
+
+    mkosolofski.monitor.command.monitor_command:
+        class: MKosolofski\HouseSeats\MonitorBundle\Command\CheckForNewShows
+        arguments:
+            - "@mkosolofski.monitor.client.active_shows"
+            - "@mkosolofski.monitor.client.mailer"
+        tags: [ { name: console.command } ]
+    
+    mkosolofski.monitor.page_parser.active_shows:
+        class: MKosolofski\HouseSeats\MonitorBundle\PageParser\ActiveShows
+        arguments:
+            - "@mkosolofski.monitor.client.config.bundle"
+
+    mkosolofski.monitor.page_parser.login:
+        class: MKosolofski\HouseSeats\MonitorBundle\PageParser\Login

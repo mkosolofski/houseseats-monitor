@@ -1,0 +1,16 @@
+<a href="http://{{ config.domain }}">{{ config.domain }}</a>
+<div style="margin-top:25px;font-weight:bold;color:blue;">NEW SHOWS</div>
+{% for key, show in shows %}
+    {% if show.isNew %}{% include "@MKosolofskiHouseSeatsMonitor/email/show.html.twig" %}{% endif %}
+{% endfor %}
+<div style="margin-top:25px;font-weight:bold;color:blue;">OLD ACTIVE SHOWS</div>
+{% for key, show in shows %}
+    {% if not show.isNew %}{% include "@MKosolofskiHouseSeatsMonitor/email/show.html.twig" %}{% endif %}
+{% endfor %}
+<br/>
+<br/>
+<span style="color:red">
+    To stop receiving notifications, please send me an email at:
+    <br/>
+    <a href="mailto:{{ config.adminEmail }}">{{ config.adminEmail }}</a>
+</span>

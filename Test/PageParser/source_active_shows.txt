@@ -1,0 +1,3378 @@
+
+     		<div id="grid-view-info">
+<div class="grid-view-info">
+	<div class="row">
+		
+			
+		<div class="grid-view-info visible-xs">
+<div class="col-xs-3 no-padding">
+<a href="./tickets/view/?showid=2083" class="thumbnail"><img src="/resources/media/2083.jpg" class="img-responsive" />
+</a>
+</div>
+</div>
+
+
+<div class="grid-view-info hidden-xs">
+	<div class="col-xs-6 col-sm-6 col-md-3 col-lg-3">
+		<div class="panel panel-default">
+			<div class="panel-heading">
+				<p class="text-center">
+					<a href="./tickets/view/?showid=2083">Laughternoon Starring Comedy-Magician Adam London</a>
+				</p>
+			</div>
+			<div class="panel-body dated-panel">
+				<div class="grid-cal-date">June 3rd</div>
+				<a href="./tickets/view/?showid=2083"><img src="/resources/media/2083.jpg" class="img-responsive" />
+</a>
+				<div class="row">
+					<div class="col-xs-12">
+						<div class="panel-calendar hidden-xs hidden-sm hidden-md hidden-lg" >
+							<div class="panel panel-default text-center">
+								<div class="panel-heading" style="display:none">
+									Next Show:
+								</div>
+								<div class="panel-body">
+									<p>Friday</p>
+									<h4>June<br />3rd</h4>
+								</div>
+								<div class="panel-footer">
+									4:00PM
+
+								</div>
+
+							</div>
+							<div class="location">
+								<div class="row">
+
+									<div class="col-xs-12 text-center">
+									<a href="./tickets/view/?showid=2083">
+										<button class="btn btn-md btn-orange col-xs-12"><i class="fa fa-calendar fa-fw"></i>See All Dates</button>
+									</a>
+									</div>
+								</div>
+							</div>
+						</div><!-- /.panel-calendar -->
+					</div>
+				</div>
+			</div><!-- panel body -->
+		</div>
+	</div><!-- panel -->
+</div><!-- grid-view-info -->
+
+
+			
+		<div class="grid-view-info visible-xs">
+<div class="col-xs-3 no-padding">
+<a href="./tickets/view/?showid=2280" class="thumbnail"><img src="/resources/media/2280.jpg" class="img-responsive" />
+</a>
+</div>
+</div>
+
+
+<div class="grid-view-info hidden-xs">
+	<div class="col-xs-6 col-sm-6 col-md-3 col-lg-3">
+		<div class="panel panel-default">
+			<div class="panel-heading">
+				<p class="text-center">
+					<a href="./tickets/view/?showid=2280">Paranormal - The Show Starring Mentalist Frederic Da Silva</a>
+				</p>
+			</div>
+			<div class="panel-body dated-panel">
+				<div class="grid-cal-date">June 3rd</div>
+				<a href="./tickets/view/?showid=2280"><img src="/resources/media/2280.jpg" class="img-responsive" />
+</a>
+				<div class="row">
+					<div class="col-xs-12">
+						<div class="panel-calendar hidden-xs hidden-sm hidden-md hidden-lg" >
+							<div class="panel panel-default text-center">
+								<div class="panel-heading" style="display:none">
+									Next Show:
+								</div>
+								<div class="panel-body">
+									<p>Friday</p>
+									<h4>June<br />3rd</h4>
+								</div>
+								<div class="panel-footer">
+									4:00PM
+
+								</div>
+
+							</div>
+							<div class="location">
+								<div class="row">
+
+									<div class="col-xs-12 text-center">
+									<a href="./tickets/view/?showid=2280">
+										<button class="btn btn-md btn-orange col-xs-12"><i class="fa fa-calendar fa-fw"></i>See All Dates</button>
+									</a>
+									</div>
+								</div>
+							</div>
+						</div><!-- /.panel-calendar -->
+					</div>
+				</div>
+			</div><!-- panel body -->
+		</div>
+	</div><!-- panel -->
+</div><!-- grid-view-info -->
+
+
+			
+		<div class="grid-view-info visible-xs">
+<div class="col-xs-3 no-padding">
+<a href="./tickets/view/?showid=2000" class="thumbnail"><img src="/resources/media/2000.jpg" class="img-responsive" />
+</a>
+</div>
+</div>
+
+
+<div class="grid-view-info hidden-xs">
+	<div class="col-xs-6 col-sm-6 col-md-3 col-lg-3">
+		<div class="panel panel-default">
+			<div class="panel-heading">
+				<p class="text-center">
+					<a href="./tickets/view/?showid=2000">Tommy Wind - Magic, Music & More!</a>
+				</p>
+			</div>
+			<div class="panel-body dated-panel">
+				<div class="grid-cal-date">June 3rd</div>
+				<a href="./tickets/view/?showid=2000"><img src="/resources/media/2000.jpg" class="img-responsive" />
+</a>
+				<div class="row">
+					<div class="col-xs-12">
+						<div class="panel-calendar hidden-xs hidden-sm hidden-md hidden-lg" >
+							<div class="panel panel-default text-center">
+								<div class="panel-heading" style="display:none">
+									Next Show:
+								</div>
+								<div class="panel-body">
+									<p>Friday</p>
+									<h4>June<br />3rd</h4>
+								</div>
+								<div class="panel-footer">
+									6:00PM
+
+								</div>
+
+							</div>
+							<div class="location">
+								<div class="row">
+
+									<div class="col-xs-12 text-center">
+									<a href="./tickets/view/?showid=2000">
+										<button class="btn btn-md btn-orange col-xs-12"><i class="fa fa-calendar fa-fw"></i>See All Dates</button>
+									</a>
+									</div>
+								</div>
+							</div>
+						</div><!-- /.panel-calendar -->
+					</div>
+				</div>
+			</div><!-- panel body -->
+		</div>
+	</div><!-- panel -->
+</div><!-- grid-view-info -->
+
+
+			
+		<div class="grid-view-info visible-xs">
+<div class="col-xs-3 no-padding">
+<a href="./tickets/view/?showid=3810" class="thumbnail"><img src="/resources/media/3810.jpg" class="img-responsive" />
+</a>
+</div>
+</div>
+
+
+<div class="grid-view-info hidden-xs">
+	<div class="col-xs-6 col-sm-6 col-md-3 col-lg-3">
+		<div class="panel panel-default">
+			<div class="panel-heading">
+				<p class="text-center">
+					<a href="./tickets/view/?showid=3810">Paragon Pro Wrestling</a>
+				</p>
+			</div>
+			<div class="panel-body dated-panel">
+				<div class="grid-cal-date">June 3rd</div>
+				<a href="./tickets/view/?showid=3810"><img src="/resources/media/3810.jpg" class="img-responsive" />
+</a>
+				<div class="row">
+					<div class="col-xs-12">
+						<div class="panel-calendar hidden-xs hidden-sm hidden-md hidden-lg" >
+							<div class="panel panel-default text-center">
+								<div class="panel-heading" style="display:none">
+									Next Show:
+								</div>
+								<div class="panel-body">
+									<p>Friday</p>
+									<h4>June<br />3rd</h4>
+								</div>
+								<div class="panel-footer">
+									6:30PM
+
+								</div>
+
+							</div>
+							<div class="location">
+								<div class="row">
+
+									<div class="col-xs-12 text-center">
+									<a href="./tickets/view/?showid=3810">
+										<button class="btn btn-md btn-orange col-xs-12"><i class="fa fa-calendar fa-fw"></i>See All Dates</button>
+									</a>
+									</div>
+								</div>
+							</div>
+						</div><!-- /.panel-calendar -->
+					</div>
+				</div>
+			</div><!-- panel body -->
+		</div>
+	</div><!-- panel -->
+</div><!-- grid-view-info -->
+
+
+	</div>
+</div>
+<div class="grid-view-info">
+	<div class="row">
+		
+			
+		<div class="grid-view-info visible-xs">
+<div class="col-xs-3 no-padding">
+<a href="./tickets/view/?showid=3931" class="thumbnail"><img src="/resources/media/3931.jpg" class="img-responsive" />
+</a>
+</div>
+</div>
+
+
+<div class="grid-view-info hidden-xs">
+	<div class="col-xs-6 col-sm-6 col-md-3 col-lg-3">
+		<div class="panel panel-default">
+			<div class="panel-heading">
+				<p class="text-center">
+					<a href="./tickets/view/?showid=3931">The HAPPY-HAPPY Hour Comedy Show</a>
+				</p>
+			</div>
+			<div class="panel-body dated-panel">
+				<div class="grid-cal-date">June 3rd</div>
+				<a href="./tickets/view/?showid=3931"><img src="/resources/media/3931.jpg" class="img-responsive" />
+</a>
+				<div class="row">
+					<div class="col-xs-12">
+						<div class="panel-calendar hidden-xs hidden-sm hidden-md hidden-lg" >
+							<div class="panel panel-default text-center">
+								<div class="panel-heading" style="display:none">
+									Next Show:
+								</div>
+								<div class="panel-body">
+									<p>Friday</p>
+									<h4>June<br />3rd</h4>
+								</div>
+								<div class="panel-footer">
+									6:30PM
+
+								</div>
+
+							</div>
+							<div class="location">
+								<div class="row">
+
+									<div class="col-xs-12 text-center">
+									<a href="./tickets/view/?showid=3931">
+										<button class="btn btn-md btn-orange col-xs-12"><i class="fa fa-calendar fa-fw"></i>See All Dates</button>
+									</a>
+									</div>
+								</div>
+							</div>
+						</div><!-- /.panel-calendar -->
+					</div>
+				</div>
+			</div><!-- panel body -->
+		</div>
+	</div><!-- panel -->
+</div><!-- grid-view-info -->
+
+
+			
+		<div class="grid-view-info visible-xs">
+<div class="col-xs-3 no-padding">
+<a href="./tickets/view/?showid=1098" class="thumbnail"><img src="/resources/media/1098.jpg" class="img-responsive" />
+</a>
+</div>
+</div>
+
+
+<div class="grid-view-info hidden-xs">
+	<div class="col-xs-6 col-sm-6 col-md-3 col-lg-3">
+		<div class="panel panel-default">
+			<div class="panel-heading">
+				<p class="text-center">
+					<a href="./tickets/view/?showid=1098">Mike Hammers Comedy Magic Show</a>
+				</p>
+			</div>
+			<div class="panel-body dated-panel">
+				<div class="grid-cal-date">June 3rd</div>
+				<a href="./tickets/view/?showid=1098"><img src="/resources/media/1098.jpg" class="img-responsive" />
+</a>
+				<div class="row">
+					<div class="col-xs-12">
+						<div class="panel-calendar hidden-xs hidden-sm hidden-md hidden-lg" >
+							<div class="panel panel-default text-center">
+								<div class="panel-heading" style="display:none">
+									Next Show:
+								</div>
+								<div class="panel-body">
+									<p>Friday</p>
+									<h4>June<br />3rd</h4>
+								</div>
+								<div class="panel-footer">
+									7:00PM
+
+								</div>
+
+							</div>
+							<div class="location">
+								<div class="row">
+
+									<div class="col-xs-12 text-center">
+									<a href="./tickets/view/?showid=1098">
+										<button class="btn btn-md btn-orange col-xs-12"><i class="fa fa-calendar fa-fw"></i>See All Dates</button>
+									</a>
+									</div>
+								</div>
+							</div>
+						</div><!-- /.panel-calendar -->
+					</div>
+				</div>
+			</div><!-- panel body -->
+		</div>
+	</div><!-- panel -->
+</div><!-- grid-view-info -->
+
+
+			
+		<div class="grid-view-info visible-xs">
+<div class="col-xs-3 no-padding">
+<a href="./tickets/view/?showid=4024" class="thumbnail"><img src="/resources/media/4024.jpg" class="img-responsive" />
+</a>
+</div>
+</div>
+
+
+<div class="grid-view-info hidden-xs">
+	<div class="col-xs-6 col-sm-6 col-md-3 col-lg-3">
+		<div class="panel panel-default">
+			<div class="panel-heading">
+				<p class="text-center">
+					<a href="./tickets/view/?showid=4024">The Tommy Lama</a>
+				</p>
+			</div>
+			<div class="panel-body dated-panel">
+				<div class="grid-cal-date">June 3rd</div>
+				<a href="./tickets/view/?showid=4024"><img src="/resources/media/4024.jpg" class="img-responsive" />
+</a>
+				<div class="row">
+					<div class="col-xs-12">
+						<div class="panel-calendar hidden-xs hidden-sm hidden-md hidden-lg" >
+							<div class="panel panel-default text-center">
+								<div class="panel-heading" style="display:none">
+									Next Show:
+								</div>
+								<div class="panel-body">
+									<p>Friday</p>
+									<h4>June<br />3rd</h4>
+								</div>
+								<div class="panel-footer">
+									7:00PM
+
+								</div>
+
+							</div>
+							<div class="location">
+								<div class="row">
+
+									<div class="col-xs-12 text-center">
+									<a href="./tickets/view/?showid=4024">
+										<button class="btn btn-md btn-orange col-xs-12"><i class="fa fa-calendar fa-fw"></i>See All Dates</button>
+									</a>
+									</div>
+								</div>
+							</div>
+						</div><!-- /.panel-calendar -->
+					</div>
+				</div>
+			</div><!-- panel body -->
+		</div>
+	</div><!-- panel -->
+</div><!-- grid-view-info -->
+
+
+			
+		<div class="grid-view-info visible-xs">
+<div class="col-xs-3 no-padding">
+<a href="./tickets/view/?showid=3706" class="thumbnail"><img src="/resources/media/3706.jpg" class="img-responsive" />
+</a>
+</div>
+</div>
+
+
+<div class="grid-view-info hidden-xs">
+	<div class="col-xs-6 col-sm-6 col-md-3 col-lg-3">
+		<div class="panel panel-default">
+			<div class="panel-heading">
+				<p class="text-center">
+					<a href="./tickets/view/?showid=3706">Evil Dead The Musical (NEW LOCATION)</a>
+				</p>
+			</div>
+			<div class="panel-body dated-panel">
+				<div class="grid-cal-date">June 3rd</div>
+				<a href="./tickets/view/?showid=3706"><img src="/resources/media/3706.jpg" class="img-responsive" />
+</a>
+				<div class="row">
+					<div class="col-xs-12">
+						<div class="panel-calendar hidden-xs hidden-sm hidden-md hidden-lg" >
+							<div class="panel panel-default text-center">
+								<div class="panel-heading" style="display:none">
+									Next Show:
+								</div>
+								<div class="panel-body">
+									<p>Friday</p>
+									<h4>June<br />3rd</h4>
+								</div>
+								<div class="panel-footer">
+									7:30PM
+
+								</div>
+
+							</div>
+							<div class="location">
+								<div class="row">
+
+									<div class="col-xs-12 text-center">
+									<a href="./tickets/view/?showid=3706">
+										<button class="btn btn-md btn-orange col-xs-12"><i class="fa fa-calendar fa-fw"></i>See All Dates</button>
+									</a>
+									</div>
+								</div>
+							</div>
+						</div><!-- /.panel-calendar -->
+					</div>
+				</div>
+			</div><!-- panel body -->
+		</div>
+	</div><!-- panel -->
+</div><!-- grid-view-info -->
+
+
+	</div>
+</div>
+<div class="grid-view-info">
+	<div class="row">
+		
+			
+		<div class="grid-view-info visible-xs">
+<div class="col-xs-3 no-padding">
+<a href="./tickets/view/?showid=3305" class="thumbnail"><img src="/resources/media/3305.jpg" class="img-responsive" />
+</a>
+</div>
+</div>
+
+
+<div class="grid-view-info hidden-xs">
+	<div class="col-xs-6 col-sm-6 col-md-3 col-lg-3">
+		<div class="panel panel-default">
+			<div class="panel-heading">
+				<p class="text-center">
+					<a href="./tickets/view/?showid=3305">X Comedy Uncensored Fun</a>
+				</p>
+			</div>
+			<div class="panel-body dated-panel">
+				<div class="grid-cal-date">June 3rd</div>
+				<a href="./tickets/view/?showid=3305"><img src="/resources/media/3305.jpg" class="img-responsive" />
+</a>
+				<div class="row">
+					<div class="col-xs-12">
+						<div class="panel-calendar hidden-xs hidden-sm hidden-md hidden-lg" >
+							<div class="panel panel-default text-center">
+								<div class="panel-heading" style="display:none">
+									Next Show:
+								</div>
+								<div class="panel-body">
+									<p>Friday</p>
+									<h4>June<br />3rd</h4>
+								</div>
+								<div class="panel-footer">
+									8:00PM
+
+								</div>
+
+							</div>
+							<div class="location">
+								<div class="row">
+
+									<div class="col-xs-12 text-center">
+									<a href="./tickets/view/?showid=3305">
+										<button class="btn btn-md btn-orange col-xs-12"><i class="fa fa-calendar fa-fw"></i>See All Dates</button>
+									</a>
+									</div>
+								</div>
+							</div>
+						</div><!-- /.panel-calendar -->
+					</div>
+				</div>
+			</div><!-- panel body -->
+		</div>
+	</div><!-- panel -->
+</div><!-- grid-view-info -->
+
+
+			
+		<div class="grid-view-info visible-xs">
+<div class="col-xs-3 no-padding">
+<a href="./tickets/view/?showid=3737" class="thumbnail"><img src="/resources/media/3737.jpg" class="img-responsive" />
+</a>
+</div>
+</div>
+
+
+<div class="grid-view-info hidden-xs">
+	<div class="col-xs-6 col-sm-6 col-md-3 col-lg-3">
+		<div class="panel panel-default">
+			<div class="panel-heading">
+				<p class="text-center">
+					<a href="./tickets/view/?showid=3737">L.A. Comedy Club - NEW LOCATION!</a>
+				</p>
+			</div>
+			<div class="panel-body dated-panel">
+				<div class="grid-cal-date">June 3rd</div>
+				<a href="./tickets/view/?showid=3737"><img src="/resources/media/3737.jpg" class="img-responsive" />
+</a>
+				<div class="row">
+					<div class="col-xs-12">
+						<div class="panel-calendar hidden-xs hidden-sm hidden-md hidden-lg" >
+							<div class="panel panel-default text-center">
+								<div class="panel-heading" style="display:none">
+									Next Show:
+								</div>
+								<div class="panel-body">
+									<p>Friday</p>
+									<h4>June<br />3rd</h4>
+								</div>
+								<div class="panel-footer">
+									8:00PM
+
+								</div>
+
+							</div>
+							<div class="location">
+								<div class="row">
+
+									<div class="col-xs-12 text-center">
+									<a href="./tickets/view/?showid=3737">
+										<button class="btn btn-md btn-orange col-xs-12"><i class="fa fa-calendar fa-fw"></i>See All Dates</button>
+									</a>
+									</div>
+								</div>
+							</div>
+						</div><!-- /.panel-calendar -->
+					</div>
+				</div>
+			</div><!-- panel body -->
+		</div>
+	</div><!-- panel -->
+</div><!-- grid-view-info -->
+
+
+			
+		<div class="grid-view-info visible-xs">
+<div class="col-xs-3 no-padding">
+<a href="./tickets/view/?showid=3848" class="thumbnail"><img src="/resources/media/3848.jpg" class="img-responsive" />
+</a>
+</div>
+</div>
+
+
+<div class="grid-view-info hidden-xs">
+	<div class="col-xs-6 col-sm-6 col-md-3 col-lg-3">
+		<div class="panel panel-default">
+			<div class="panel-heading">
+				<p class="text-center">
+					<a href="./tickets/view/?showid=3848">Bonkerz Comedy at Rockhouse Las Vegas</a>
+				</p>
+			</div>
+			<div class="panel-body dated-panel">
+				<div class="grid-cal-date">June 3rd</div>
+				<a href="./tickets/view/?showid=3848"><img src="/resources/media/3848.jpg" class="img-responsive" />
+</a>
+				<div class="row">
+					<div class="col-xs-12">
+						<div class="panel-calendar hidden-xs hidden-sm hidden-md hidden-lg" >
+							<div class="panel panel-default text-center">
+								<div class="panel-heading" style="display:none">
+									Next Show:
+								</div>
+								<div class="panel-body">
+									<p>Friday</p>
+									<h4>June<br />3rd</h4>
+								</div>
+								<div class="panel-footer">
+									8:00PM
+
+								</div>
+
+							</div>
+							<div class="location">
+								<div class="row">
+
+									<div class="col-xs-12 text-center">
+									<a href="./tickets/view/?showid=3848">
+										<button class="btn btn-md btn-orange col-xs-12"><i class="fa fa-calendar fa-fw"></i>See All Dates</button>
+									</a>
+									</div>
+								</div>
+							</div>
+						</div><!-- /.panel-calendar -->
+					</div>
+				</div>
+			</div><!-- panel body -->
+		</div>
+	</div><!-- panel -->
+</div><!-- grid-view-info -->
+
+
+			
+		<div class="grid-view-info visible-xs">
+<div class="col-xs-3 no-padding">
+<a href="./tickets/view/?showid=4015" class="thumbnail"><img src="/resources/media/4015.jpg" class="img-responsive" />
+</a>
+</div>
+</div>
+
+
+<div class="grid-view-info hidden-xs">
+	<div class="col-xs-6 col-sm-6 col-md-3 col-lg-3">
+		<div class="panel panel-default">
+			<div class="panel-heading">
+				<p class="text-center">
+					<a href="./tickets/view/?showid=4015">Jackie Z Residency Debut</a>
+				</p>
+			</div>
+			<div class="panel-body dated-panel">
+				<div class="grid-cal-date">June 3rd</div>
+				<a href="./tickets/view/?showid=4015"><img src="/resources/media/4015.jpg" class="img-responsive" />
+</a>
+				<div class="row">
+					<div class="col-xs-12">
+						<div class="panel-calendar hidden-xs hidden-sm hidden-md hidden-lg" >
+							<div class="panel panel-default text-center">
+								<div class="panel-heading" style="display:none">
+									Next Show:
+								</div>
+								<div class="panel-body">
+									<p>Friday</p>
+									<h4>June<br />3rd</h4>
+								</div>
+								<div class="panel-footer">
+									8:00PM
+
+								</div>
+
+							</div>
+							<div class="location">
+								<div class="row">
+
+									<div class="col-xs-12 text-center">
+									<a href="./tickets/view/?showid=4015">
+										<button class="btn btn-md btn-orange col-xs-12"><i class="fa fa-calendar fa-fw"></i>See All Dates</button>
+									</a>
+									</div>
+								</div>
+							</div>
+						</div><!-- /.panel-calendar -->
+					</div>
+				</div>
+			</div><!-- panel body -->
+		</div>
+	</div><!-- panel -->
+</div><!-- grid-view-info -->
+
+
+	</div>
+</div>
+<div class="grid-view-info">
+	<div class="row">
+		
+			
+		<div class="grid-view-info visible-xs">
+<div class="col-xs-3 no-padding">
+<a href="./tickets/view/?showid=4022" class="thumbnail"><img src="/resources/media/4022.jpg" class="img-responsive" />
+</a>
+</div>
+</div>
+
+
+<div class="grid-view-info hidden-xs">
+	<div class="col-xs-6 col-sm-6 col-md-3 col-lg-3">
+		<div class="panel panel-default">
+			<div class="panel-heading">
+				<p class="text-center">
+					<a href="./tickets/view/?showid=4022">(LAUGHLIN) Country Superstars at Riverside Resort in Laughlin</a>
+				</p>
+			</div>
+			<div class="panel-body dated-panel">
+				<div class="grid-cal-date">June 3rd</div>
+				<a href="./tickets/view/?showid=4022"><img src="/resources/media/4022.jpg" class="img-responsive" />
+</a>
+				<div class="row">
+					<div class="col-xs-12">
+						<div class="panel-calendar hidden-xs hidden-sm hidden-md hidden-lg" >
+							<div class="panel panel-default text-center">
+								<div class="panel-heading" style="display:none">
+									Next Show:
+								</div>
+								<div class="panel-body">
+									<p>Friday</p>
+									<h4>June<br />3rd</h4>
+								</div>
+								<div class="panel-footer">
+									8:00PM
+
+								</div>
+
+							</div>
+							<div class="location">
+								<div class="row">
+
+									<div class="col-xs-12 text-center">
+									<a href="./tickets/view/?showid=4022">
+										<button class="btn btn-md btn-orange col-xs-12"><i class="fa fa-calendar fa-fw"></i>See All Dates</button>
+									</a>
+									</div>
+								</div>
+							</div>
+						</div><!-- /.panel-calendar -->
+					</div>
+				</div>
+			</div><!-- panel body -->
+		</div>
+	</div><!-- panel -->
+</div><!-- grid-view-info -->
+
+
+			
+		<div class="grid-view-info visible-xs">
+<div class="col-xs-3 no-padding">
+<a href="./tickets/view/?showid=3592" class="thumbnail"><img src="/resources/media/3592.jpg" class="img-responsive" />
+</a>
+</div>
+</div>
+
+
+<div class="grid-view-info hidden-xs">
+	<div class="col-xs-6 col-sm-6 col-md-3 col-lg-3">
+		<div class="panel panel-default">
+			<div class="panel-heading">
+				<p class="text-center">
+					<a href="./tickets/view/?showid=3592">Kevin Lepine Hypnosis Unleashed</a>
+				</p>
+			</div>
+			<div class="panel-body dated-panel">
+				<div class="grid-cal-date">June 3rd</div>
+				<a href="./tickets/view/?showid=3592"><img src="/resources/media/3592.jpg" class="img-responsive" />
+</a>
+				<div class="row">
+					<div class="col-xs-12">
+						<div class="panel-calendar hidden-xs hidden-sm hidden-md hidden-lg" >
+							<div class="panel panel-default text-center">
+								<div class="panel-heading" style="display:none">
+									Next Show:
+								</div>
+								<div class="panel-body">
+									<p>Friday</p>
+									<h4>June<br />3rd</h4>
+								</div>
+								<div class="panel-footer">
+									8:30PM
+
+								</div>
+
+							</div>
+							<div class="location">
+								<div class="row">
+
+									<div class="col-xs-12 text-center">
+									<a href="./tickets/view/?showid=3592">
+										<button class="btn btn-md btn-orange col-xs-12"><i class="fa fa-calendar fa-fw"></i>See All Dates</button>
+									</a>
+									</div>
+								</div>
+							</div>
+						</div><!-- /.panel-calendar -->
+					</div>
+				</div>
+			</div><!-- panel body -->
+		</div>
+	</div><!-- panel -->
+</div><!-- grid-view-info -->
+
+
+			
+		<div class="grid-view-info visible-xs">
+<div class="col-xs-3 no-padding">
+<a href="./tickets/view/?showid=3856" class="thumbnail"><img src="/resources/media/3856.jpg" class="img-responsive" />
+</a>
+</div>
+</div>
+
+
+<div class="grid-view-info hidden-xs">
+	<div class="col-xs-6 col-sm-6 col-md-3 col-lg-3">
+		<div class="panel panel-default">
+			<div class="panel-heading">
+				<p class="text-center">
+					<a href="./tickets/view/?showid=3856">53X</a>
+				</p>
+			</div>
+			<div class="panel-body dated-panel">
+				<div class="grid-cal-date">June 3rd</div>
+				<a href="./tickets/view/?showid=3856"><img src="/resources/media/3856.jpg" class="img-responsive" />
+</a>
+				<div class="row">
+					<div class="col-xs-12">
+						<div class="panel-calendar hidden-xs hidden-sm hidden-md hidden-lg" >
+							<div class="panel panel-default text-center">
+								<div class="panel-heading" style="display:none">
+									Next Show:
+								</div>
+								<div class="panel-body">
+									<p>Friday</p>
+									<h4>June<br />3rd</h4>
+								</div>
+								<div class="panel-footer">
+									8:30PM
+
+								</div>
+
+							</div>
+							<div class="location">
+								<div class="row">
+
+									<div class="col-xs-12 text-center">
+									<a href="./tickets/view/?showid=3856">
+										<button class="btn btn-md btn-orange col-xs-12"><i class="fa fa-calendar fa-fw"></i>See All Dates</button>
+									</a>
+									</div>
+								</div>
+							</div>
+						</div><!-- /.panel-calendar -->
+					</div>
+				</div>
+			</div><!-- panel body -->
+		</div>
+	</div><!-- panel -->
+</div><!-- grid-view-info -->
+
+
+			
+		<div class="grid-view-info visible-xs">
+<div class="col-xs-3 no-padding">
+<a href="./tickets/view/?showid=2385" class="thumbnail"><img src="/resources/media/2385.jpg" class="img-responsive" />
+</a>
+</div>
+</div>
+
+
+<div class="grid-view-info hidden-xs">
+	<div class="col-xs-6 col-sm-6 col-md-3 col-lg-3">
+		<div class="panel panel-default">
+			<div class="panel-heading">
+				<p class="text-center">
+					<a href="./tickets/view/?showid=2385">Las Vegas Live Comedy Club</a>
+				</p>
+			</div>
+			<div class="panel-body dated-panel">
+				<div class="grid-cal-date">June 3rd</div>
+				<a href="./tickets/view/?showid=2385"><img src="/resources/media/2385.jpg" class="img-responsive" />
+</a>
+				<div class="row">
+					<div class="col-xs-12">
+						<div class="panel-calendar hidden-xs hidden-sm hidden-md hidden-lg" >
+							<div class="panel panel-default text-center">
+								<div class="panel-heading" style="display:none">
+									Next Show:
+								</div>
+								<div class="panel-body">
+									<p>Friday</p>
+									<h4>June<br />3rd</h4>
+								</div>
+								<div class="panel-footer">
+									9:00PM
+
+								</div>
+
+							</div>
+							<div class="location">
+								<div class="row">
+
+									<div class="col-xs-12 text-center">
+									<a href="./tickets/view/?showid=2385">
+										<button class="btn btn-md btn-orange col-xs-12"><i class="fa fa-calendar fa-fw"></i>See All Dates</button>
+									</a>
+									</div>
+								</div>
+							</div>
+						</div><!-- /.panel-calendar -->
+					</div>
+				</div>
+			</div><!-- panel body -->
+		</div>
+	</div><!-- panel -->
+</div><!-- grid-view-info -->
+
+
+	</div>
+</div>
+<div class="grid-view-info">
+	<div class="row">
+		
+			
+		<div class="grid-view-info visible-xs">
+<div class="col-xs-3 no-padding">
+<a href="./tickets/view/?showid=2786" class="thumbnail"><img src="/resources/media/2786.jpg" class="img-responsive" />
+</a>
+</div>
+</div>
+
+
+<div class="grid-view-info hidden-xs">
+	<div class="col-xs-6 col-sm-6 col-md-3 col-lg-3">
+		<div class="panel panel-default">
+			<div class="panel-heading">
+				<p class="text-center">
+					<a href="./tickets/view/?showid=2786">Spirit of the King: Steve Connolly</a>
+				</p>
+			</div>
+			<div class="panel-body dated-panel">
+				<div class="grid-cal-date">June 3rd</div>
+				<a href="./tickets/view/?showid=2786"><img src="/resources/media/2786.jpg" class="img-responsive" />
+</a>
+				<div class="row">
+					<div class="col-xs-12">
+						<div class="panel-calendar hidden-xs hidden-sm hidden-md hidden-lg" >
+							<div class="panel panel-default text-center">
+								<div class="panel-heading" style="display:none">
+									Next Show:
+								</div>
+								<div class="panel-body">
+									<p>Friday</p>
+									<h4>June<br />3rd</h4>
+								</div>
+								<div class="panel-footer">
+									9:00PM
+
+								</div>
+
+							</div>
+							<div class="location">
+								<div class="row">
+
+									<div class="col-xs-12 text-center">
+									<a href="./tickets/view/?showid=2786">
+										<button class="btn btn-md btn-orange col-xs-12"><i class="fa fa-calendar fa-fw"></i>See All Dates</button>
+									</a>
+									</div>
+								</div>
+							</div>
+						</div><!-- /.panel-calendar -->
+					</div>
+				</div>
+			</div><!-- panel body -->
+		</div>
+	</div><!-- panel -->
+</div><!-- grid-view-info -->
+
+
+			
+		<div class="grid-view-info visible-xs">
+<div class="col-xs-3 no-padding">
+<a href="./tickets/view/?showid=731" class="thumbnail"><img src="/resources/media/731.jpg" class="img-responsive" />
+</a>
+</div>
+</div>
+
+
+<div class="grid-view-info hidden-xs">
+	<div class="col-xs-6 col-sm-6 col-md-3 col-lg-3">
+		<div class="panel panel-default">
+			<div class="panel-heading">
+				<p class="text-center">
+					<a href="./tickets/view/?showid=731">Frank Marino's Divas Las Vegas</a>
+				</p>
+			</div>
+			<div class="panel-body dated-panel">
+				<div class="grid-cal-date">June 3rd</div>
+				<a href="./tickets/view/?showid=731"><img src="/resources/media/731.jpg" class="img-responsive" />
+</a>
+				<div class="row">
+					<div class="col-xs-12">
+						<div class="panel-calendar hidden-xs hidden-sm hidden-md hidden-lg" >
+							<div class="panel panel-default text-center">
+								<div class="panel-heading" style="display:none">
+									Next Show:
+								</div>
+								<div class="panel-body">
+									<p>Friday</p>
+									<h4>June<br />3rd</h4>
+								</div>
+								<div class="panel-footer">
+									9:30PM
+
+								</div>
+
+							</div>
+							<div class="location">
+								<div class="row">
+
+									<div class="col-xs-12 text-center">
+									<a href="./tickets/view/?showid=731">
+										<button class="btn btn-md btn-orange col-xs-12"><i class="fa fa-calendar fa-fw"></i>See All Dates</button>
+									</a>
+									</div>
+								</div>
+							</div>
+						</div><!-- /.panel-calendar -->
+					</div>
+				</div>
+			</div><!-- panel body -->
+		</div>
+	</div><!-- panel -->
+</div><!-- grid-view-info -->
+
+
+			
+		<div class="grid-view-info visible-xs">
+<div class="col-xs-3 no-padding">
+<a href="./tickets/view/?showid=2139" class="thumbnail"><img src="/resources/media/2139.jpg" class="img-responsive" />
+</a>
+</div>
+</div>
+
+
+<div class="grid-view-info hidden-xs">
+	<div class="col-xs-6 col-sm-6 col-md-3 col-lg-3">
+		<div class="panel panel-default">
+			<div class="panel-heading">
+				<p class="text-center">
+					<a href="./tickets/view/?showid=2139">PIN UP</a>
+				</p>
+			</div>
+			<div class="panel-body dated-panel">
+				<div class="grid-cal-date">June 3rd</div>
+				<a href="./tickets/view/?showid=2139"><img src="/resources/media/2139.jpg" class="img-responsive" />
+</a>
+				<div class="row">
+					<div class="col-xs-12">
+						<div class="panel-calendar hidden-xs hidden-sm hidden-md hidden-lg" >
+							<div class="panel panel-default text-center">
+								<div class="panel-heading" style="display:none">
+									Next Show:
+								</div>
+								<div class="panel-body">
+									<p>Friday</p>
+									<h4>June<br />3rd</h4>
+								</div>
+								<div class="panel-footer">
+									9:30PM
+
+								</div>
+
+							</div>
+							<div class="location">
+								<div class="row">
+
+									<div class="col-xs-12 text-center">
+									<a href="./tickets/view/?showid=2139">
+										<button class="btn btn-md btn-orange col-xs-12"><i class="fa fa-calendar fa-fw"></i>See All Dates</button>
+									</a>
+									</div>
+								</div>
+							</div>
+						</div><!-- /.panel-calendar -->
+					</div>
+				</div>
+			</div><!-- panel body -->
+		</div>
+	</div><!-- panel -->
+</div><!-- grid-view-info -->
+
+
+			
+		<div class="grid-view-info visible-xs">
+<div class="col-xs-3 no-padding">
+<a href="./tickets/view/?showid=3948" class="thumbnail"><img src="/resources/media/3948.jpg" class="img-responsive" />
+</a>
+</div>
+</div>
+
+
+<div class="grid-view-info hidden-xs">
+	<div class="col-xs-6 col-sm-6 col-md-3 col-lg-3">
+		<div class="panel panel-default">
+			<div class="panel-heading">
+				<p class="text-center">
+					<a href="./tickets/view/?showid=3948">STEELE</a>
+				</p>
+			</div>
+			<div class="panel-body dated-panel">
+				<div class="grid-cal-date">June 3rd</div>
+				<a href="./tickets/view/?showid=3948"><img src="/resources/media/3948.jpg" class="img-responsive" />
+</a>
+				<div class="row">
+					<div class="col-xs-12">
+						<div class="panel-calendar hidden-xs hidden-sm hidden-md hidden-lg" >
+							<div class="panel panel-default text-center">
+								<div class="panel-heading" style="display:none">
+									Next Show:
+								</div>
+								<div class="panel-body">
+									<p>Friday</p>
+									<h4>June<br />3rd</h4>
+								</div>
+								<div class="panel-footer">
+									9:30PM
+
+								</div>
+
+							</div>
+							<div class="location">
+								<div class="row">
+
+									<div class="col-xs-12 text-center">
+									<a href="./tickets/view/?showid=3948">
+										<button class="btn btn-md btn-orange col-xs-12"><i class="fa fa-calendar fa-fw"></i>See All Dates</button>
+									</a>
+									</div>
+								</div>
+							</div>
+						</div><!-- /.panel-calendar -->
+					</div>
+				</div>
+			</div><!-- panel body -->
+		</div>
+	</div><!-- panel -->
+</div><!-- grid-view-info -->
+
+
+	</div>
+</div>
+<div class="grid-view-info">
+	<div class="row">
+		
+			
+		<div class="grid-view-info visible-xs">
+<div class="col-xs-3 no-padding">
+<a href="./tickets/view/?showid=2298" class="thumbnail"><img src="/resources/media/2298.jpg" class="img-responsive" />
+</a>
+</div>
+</div>
+
+
+<div class="grid-view-info hidden-xs">
+	<div class="col-xs-6 col-sm-6 col-md-3 col-lg-3">
+		<div class="panel panel-default">
+			<div class="panel-heading">
+				<p class="text-center">
+					<a href="./tickets/view/?showid=2298">X Rocks</a>
+				</p>
+			</div>
+			<div class="panel-body dated-panel">
+				<div class="grid-cal-date">June 3rd</div>
+				<a href="./tickets/view/?showid=2298"><img src="/resources/media/2298.jpg" class="img-responsive" />
+</a>
+				<div class="row">
+					<div class="col-xs-12">
+						<div class="panel-calendar hidden-xs hidden-sm hidden-md hidden-lg" >
+							<div class="panel panel-default text-center">
+								<div class="panel-heading" style="display:none">
+									Next Show:
+								</div>
+								<div class="panel-body">
+									<p>Friday</p>
+									<h4>June<br />3rd</h4>
+								</div>
+								<div class="panel-footer">
+									10:00PM
+
+								</div>
+
+							</div>
+							<div class="location">
+								<div class="row">
+
+									<div class="col-xs-12 text-center">
+									<a href="./tickets/view/?showid=2298">
+										<button class="btn btn-md btn-orange col-xs-12"><i class="fa fa-calendar fa-fw"></i>See All Dates</button>
+									</a>
+									</div>
+								</div>
+							</div>
+						</div><!-- /.panel-calendar -->
+					</div>
+				</div>
+			</div><!-- panel body -->
+		</div>
+	</div><!-- panel -->
+</div><!-- grid-view-info -->
+
+
+			
+		<div class="grid-view-info visible-xs">
+<div class="col-xs-3 no-padding">
+<a href="./tickets/view/?showid=3148" class="thumbnail"><img src="/resources/media/3148.jpg" class="img-responsive" />
+</a>
+</div>
+</div>
+
+
+<div class="grid-view-info hidden-xs">
+	<div class="col-xs-6 col-sm-6 col-md-3 col-lg-3">
+		<div class="panel panel-default">
+			<div class="panel-heading">
+				<p class="text-center">
+					<a href="./tickets/view/?showid=3148">Lovers or Losers LIVE Game Show</a>
+				</p>
+			</div>
+			<div class="panel-body dated-panel">
+				<div class="grid-cal-date">June 3rd</div>
+				<a href="./tickets/view/?showid=3148"><img src="/resources/media/3148.jpg" class="img-responsive" />
+</a>
+				<div class="row">
+					<div class="col-xs-12">
+						<div class="panel-calendar hidden-xs hidden-sm hidden-md hidden-lg" >
+							<div class="panel panel-default text-center">
+								<div class="panel-heading" style="display:none">
+									Next Show:
+								</div>
+								<div class="panel-body">
+									<p>Friday</p>
+									<h4>June<br />3rd</h4>
+								</div>
+								<div class="panel-footer">
+									10:00PM
+
+								</div>
+
+							</div>
+							<div class="location">
+								<div class="row">
+
+									<div class="col-xs-12 text-center">
+									<a href="./tickets/view/?showid=3148">
+										<button class="btn btn-md btn-orange col-xs-12"><i class="fa fa-calendar fa-fw"></i>See All Dates</button>
+									</a>
+									</div>
+								</div>
+							</div>
+						</div><!-- /.panel-calendar -->
+					</div>
+				</div>
+			</div><!-- panel body -->
+		</div>
+	</div><!-- panel -->
+</div><!-- grid-view-info -->
+
+
+			
+		<div class="grid-view-info visible-xs">
+<div class="col-xs-3 no-padding">
+<a href="./tickets/view/?showid=4012" class="thumbnail"><img src="/resources/media/4012.jpg" class="img-responsive" />
+</a>
+</div>
+</div>
+
+
+<div class="grid-view-info hidden-xs">
+	<div class="col-xs-6 col-sm-6 col-md-3 col-lg-3">
+		<div class="panel panel-default">
+			<div class="panel-heading">
+				<p class="text-center">
+					<a href="./tickets/view/?showid=4012">Kelsie May</a>
+				</p>
+			</div>
+			<div class="panel-body dated-panel">
+				<div class="grid-cal-date">June 3rd</div>
+				<a href="./tickets/view/?showid=4012"><img src="/resources/media/4012.jpg" class="img-responsive" />
+</a>
+				<div class="row">
+					<div class="col-xs-12">
+						<div class="panel-calendar hidden-xs hidden-sm hidden-md hidden-lg" >
+							<div class="panel panel-default text-center">
+								<div class="panel-heading" style="display:none">
+									Next Show:
+								</div>
+								<div class="panel-body">
+									<p>Friday</p>
+									<h4>June<br />3rd</h4>
+								</div>
+								<div class="panel-footer">
+									10:00PM
+
+								</div>
+
+							</div>
+							<div class="location">
+								<div class="row">
+
+									<div class="col-xs-12 text-center">
+									<a href="./tickets/view/?showid=4012">
+										<button class="btn btn-md btn-orange col-xs-12"><i class="fa fa-calendar fa-fw"></i>See All Dates</button>
+									</a>
+									</div>
+								</div>
+							</div>
+						</div><!-- /.panel-calendar -->
+					</div>
+				</div>
+			</div><!-- panel body -->
+		</div>
+	</div><!-- panel -->
+</div><!-- grid-view-info -->
+
+
+			
+		<div class="grid-view-info visible-xs">
+<div class="col-xs-3 no-padding">
+<a href="./tickets/view/?showid=4013" class="thumbnail"><img src="/resources/media/4013.jpg" class="img-responsive" />
+</a>
+</div>
+</div>
+
+
+<div class="grid-view-info hidden-xs">
+	<div class="col-xs-6 col-sm-6 col-md-3 col-lg-3">
+		<div class="panel panel-default">
+			<div class="panel-heading">
+				<p class="text-center">
+					<a href="./tickets/view/?showid=4013">The NashVegas Hit Makers Series</a>
+				</p>
+			</div>
+			<div class="panel-body dated-panel">
+				<div class="grid-cal-date">June 4th</div>
+				<a href="./tickets/view/?showid=4013"><img src="/resources/media/4013.jpg" class="img-responsive" />
+</a>
+				<div class="row">
+					<div class="col-xs-12">
+						<div class="panel-calendar hidden-xs hidden-sm hidden-md hidden-lg" >
+							<div class="panel panel-default text-center">
+								<div class="panel-heading" style="display:none">
+									Next Show:
+								</div>
+								<div class="panel-body">
+									<p>Saturday</p>
+									<h4>June<br />4th</h4>
+								</div>
+								<div class="panel-footer">
+									7:00PM
+
+								</div>
+
+							</div>
+							<div class="location">
+								<div class="row">
+
+									<div class="col-xs-12 text-center">
+									<a href="./tickets/view/?showid=4013">
+										<button class="btn btn-md btn-orange col-xs-12"><i class="fa fa-calendar fa-fw"></i>See All Dates</button>
+									</a>
+									</div>
+								</div>
+							</div>
+						</div><!-- /.panel-calendar -->
+					</div>
+				</div>
+			</div><!-- panel body -->
+		</div>
+	</div><!-- panel -->
+</div><!-- grid-view-info -->
+
+
+	</div>
+</div>
+<div class="grid-view-info">
+	<div class="row">
+		
+			
+		<div class="grid-view-info visible-xs">
+<div class="col-xs-3 no-padding">
+<a href="./tickets/view/?showid=3994" class="thumbnail"><img src="/resources/media/3994.jpg" class="img-responsive" />
+</a>
+</div>
+</div>
+
+
+<div class="grid-view-info hidden-xs">
+	<div class="col-xs-6 col-sm-6 col-md-3 col-lg-3">
+		<div class="panel panel-default">
+			<div class="panel-heading">
+				<p class="text-center">
+					<a href="./tickets/view/?showid=3994">Casablanca Resort in MESQUITE Presents: Tony Sacca - All American Music</a>
+				</p>
+			</div>
+			<div class="panel-body dated-panel">
+				<div class="grid-cal-date">June 4th</div>
+				<a href="./tickets/view/?showid=3994"><img src="/resources/media/3994.jpg" class="img-responsive" />
+</a>
+				<div class="row">
+					<div class="col-xs-12">
+						<div class="panel-calendar hidden-xs hidden-sm hidden-md hidden-lg" >
+							<div class="panel panel-default text-center">
+								<div class="panel-heading" style="display:none">
+									Next Show:
+								</div>
+								<div class="panel-body">
+									<p>Saturday</p>
+									<h4>June<br />4th</h4>
+								</div>
+								<div class="panel-footer">
+									7:30PM
+
+								</div>
+
+							</div>
+							<div class="location">
+								<div class="row">
+
+									<div class="col-xs-12 text-center">
+									<a href="./tickets/view/?showid=3994">
+										<button class="btn btn-md btn-orange col-xs-12"><i class="fa fa-calendar fa-fw"></i>See All Dates</button>
+									</a>
+									</div>
+								</div>
+							</div>
+						</div><!-- /.panel-calendar -->
+					</div>
+				</div>
+			</div><!-- panel body -->
+		</div>
+	</div><!-- panel -->
+</div><!-- grid-view-info -->
+
+
+			
+		<div class="grid-view-info visible-xs">
+<div class="col-xs-3 no-padding">
+<a href="./tickets/view/?showid=3644" class="thumbnail"><img src="/resources/media/3644.jpg" class="img-responsive" />
+</a>
+</div>
+</div>
+
+
+<div class="grid-view-info hidden-xs">
+	<div class="col-xs-6 col-sm-6 col-md-3 col-lg-3">
+		<div class="panel panel-default">
+			<div class="panel-heading">
+				<p class="text-center">
+					<a href="./tickets/view/?showid=3644">X Country</a>
+				</p>
+			</div>
+			<div class="panel-body dated-panel">
+				<div class="grid-cal-date">June 4th</div>
+				<a href="./tickets/view/?showid=3644"><img src="/resources/media/3644.jpg" class="img-responsive" />
+</a>
+				<div class="row">
+					<div class="col-xs-12">
+						<div class="panel-calendar hidden-xs hidden-sm hidden-md hidden-lg" >
+							<div class="panel panel-default text-center">
+								<div class="panel-heading" style="display:none">
+									Next Show:
+								</div>
+								<div class="panel-body">
+									<p>Saturday</p>
+									<h4>June<br />4th</h4>
+								</div>
+								<div class="panel-footer">
+									10:00PM
+
+								</div>
+
+							</div>
+							<div class="location">
+								<div class="row">
+
+									<div class="col-xs-12 text-center">
+									<a href="./tickets/view/?showid=3644">
+										<button class="btn btn-md btn-orange col-xs-12"><i class="fa fa-calendar fa-fw"></i>See All Dates</button>
+									</a>
+									</div>
+								</div>
+							</div>
+						</div><!-- /.panel-calendar -->
+					</div>
+				</div>
+			</div><!-- panel body -->
+		</div>
+	</div><!-- panel -->
+</div><!-- grid-view-info -->
+
+
+			
+		<div class="grid-view-info visible-xs">
+<div class="col-xs-3 no-padding">
+<a href="./tickets/view/?showid=3065" class="thumbnail"><img src="/resources/media/3065.jpg" class="img-responsive" />
+</a>
+</div>
+</div>
+
+
+<div class="grid-view-info hidden-xs">
+	<div class="col-xs-6 col-sm-6 col-md-3 col-lg-3">
+		<div class="panel panel-default">
+			<div class="panel-heading">
+				<p class="text-center">
+					<a href="./tickets/view/?showid=3065">Sexxy</a>
+				</p>
+			</div>
+			<div class="panel-body dated-panel">
+				<div class="grid-cal-date">June 4th</div>
+				<a href="./tickets/view/?showid=3065"><img src="/resources/media/3065.jpg" class="img-responsive" />
+</a>
+				<div class="row">
+					<div class="col-xs-12">
+						<div class="panel-calendar hidden-xs hidden-sm hidden-md hidden-lg" >
+							<div class="panel panel-default text-center">
+								<div class="panel-heading" style="display:none">
+									Next Show:
+								</div>
+								<div class="panel-body">
+									<p>Saturday</p>
+									<h4>June<br />4th</h4>
+								</div>
+								<div class="panel-footer">
+									10:30PM
+
+								</div>
+
+							</div>
+							<div class="location">
+								<div class="row">
+
+									<div class="col-xs-12 text-center">
+									<a href="./tickets/view/?showid=3065">
+										<button class="btn btn-md btn-orange col-xs-12"><i class="fa fa-calendar fa-fw"></i>See All Dates</button>
+									</a>
+									</div>
+								</div>
+							</div>
+						</div><!-- /.panel-calendar -->
+					</div>
+				</div>
+			</div><!-- panel body -->
+		</div>
+	</div><!-- panel -->
+</div><!-- grid-view-info -->
+
+
+			
+		<div class="grid-view-info visible-xs">
+<div class="col-xs-3 no-padding">
+<a href="./tickets/view/?showid=4020" class="thumbnail"><img src="/resources/media/4020.jpg" class="img-responsive" />
+</a>
+</div>
+</div>
+
+
+<div class="grid-view-info hidden-xs">
+	<div class="col-xs-6 col-sm-6 col-md-3 col-lg-3">
+		<div class="panel panel-default">
+			<div class="panel-heading">
+				<p class="text-center">
+					<a href="./tickets/view/?showid=4020">2016 MISS USA Finals at T-Mobile Arena</a>
+				</p>
+			</div>
+			<div class="panel-body dated-panel">
+				<div class="grid-cal-date">June 5th</div>
+				<a href="./tickets/view/?showid=4020"><img src="/resources/media/4020.jpg" class="img-responsive" />
+</a>
+				<div class="row">
+					<div class="col-xs-12">
+						<div class="panel-calendar hidden-xs hidden-sm hidden-md hidden-lg" >
+							<div class="panel panel-default text-center">
+								<div class="panel-heading" style="display:none">
+									Next Show:
+								</div>
+								<div class="panel-body">
+									<p>Sunday</p>
+									<h4>June<br />5th</h4>
+								</div>
+								<div class="panel-footer">
+									4:00PM
+
+								</div>
+
+							</div>
+							<div class="location">
+								<div class="row">
+
+									<div class="col-xs-12 text-center">
+									<a href="./tickets/view/?showid=4020">
+										<button class="btn btn-md btn-orange col-xs-12"><i class="fa fa-calendar fa-fw"></i>See All Dates</button>
+									</a>
+									</div>
+								</div>
+							</div>
+						</div><!-- /.panel-calendar -->
+					</div>
+				</div>
+			</div><!-- panel body -->
+		</div>
+	</div><!-- panel -->
+</div><!-- grid-view-info -->
+
+
+	</div>
+</div>
+<div class="grid-view-info">
+	<div class="row">
+		
+			
+		<div class="grid-view-info visible-xs">
+<div class="col-xs-3 no-padding">
+<a href="./tickets/view/?showid=2590" class="thumbnail"><img src="/resources/media/2590.jpg" class="img-responsive" />
+</a>
+</div>
+</div>
+
+
+<div class="grid-view-info hidden-xs">
+	<div class="col-xs-6 col-sm-6 col-md-3 col-lg-3">
+		<div class="panel panel-default">
+			<div class="panel-heading">
+				<p class="text-center">
+					<a href="./tickets/view/?showid=2590">Swingin' Sundays</a>
+				</p>
+			</div>
+			<div class="panel-body dated-panel">
+				<div class="grid-cal-date">June 5th</div>
+				<a href="./tickets/view/?showid=2590"><img src="/resources/media/2590.jpg" class="img-responsive" />
+</a>
+				<div class="row">
+					<div class="col-xs-12">
+						<div class="panel-calendar hidden-xs hidden-sm hidden-md hidden-lg" >
+							<div class="panel panel-default text-center">
+								<div class="panel-heading" style="display:none">
+									Next Show:
+								</div>
+								<div class="panel-body">
+									<p>Sunday</p>
+									<h4>June<br />5th</h4>
+								</div>
+								<div class="panel-footer">
+									5:00PM
+
+								</div>
+
+							</div>
+							<div class="location">
+								<div class="row">
+
+									<div class="col-xs-12 text-center">
+									<a href="./tickets/view/?showid=2590">
+										<button class="btn btn-md btn-orange col-xs-12"><i class="fa fa-calendar fa-fw"></i>See All Dates</button>
+									</a>
+									</div>
+								</div>
+							</div>
+						</div><!-- /.panel-calendar -->
+					</div>
+				</div>
+			</div><!-- panel body -->
+		</div>
+	</div><!-- panel -->
+</div><!-- grid-view-info -->
+
+
+			
+		<div class="grid-view-info visible-xs">
+<div class="col-xs-3 no-padding">
+<a href="./tickets/view/?showid=3952" class="thumbnail"><img src="/resources/media/3952.jpg" class="img-responsive" />
+</a>
+</div>
+</div>
+
+
+<div class="grid-view-info hidden-xs">
+	<div class="col-xs-6 col-sm-6 col-md-3 col-lg-3">
+		<div class="panel panel-default">
+			<div class="panel-heading">
+				<p class="text-center">
+					<a href="./tickets/view/?showid=3952">Paul Zerdin at Planet Hollywood</a>
+				</p>
+			</div>
+			<div class="panel-body dated-panel">
+				<div class="grid-cal-date">June 5th</div>
+				<a href="./tickets/view/?showid=3952"><img src="/resources/media/3952.jpg" class="img-responsive" />
+</a>
+				<div class="row">
+					<div class="col-xs-12">
+						<div class="panel-calendar hidden-xs hidden-sm hidden-md hidden-lg" >
+							<div class="panel panel-default text-center">
+								<div class="panel-heading" style="display:none">
+									Next Show:
+								</div>
+								<div class="panel-body">
+									<p>Sunday</p>
+									<h4>June<br />5th</h4>
+								</div>
+								<div class="panel-footer">
+									7:00PM
+
+								</div>
+
+							</div>
+							<div class="location">
+								<div class="row">
+
+									<div class="col-xs-12 text-center">
+									<a href="./tickets/view/?showid=3952">
+										<button class="btn btn-md btn-orange col-xs-12"><i class="fa fa-calendar fa-fw"></i>See All Dates</button>
+									</a>
+									</div>
+								</div>
+							</div>
+						</div><!-- /.panel-calendar -->
+					</div>
+				</div>
+			</div><!-- panel body -->
+		</div>
+	</div><!-- panel -->
+</div><!-- grid-view-info -->
+
+
+			
+		<div class="grid-view-info visible-xs">
+<div class="col-xs-3 no-padding">
+<a href="./tickets/view/?showid=84" class="thumbnail"><img src="/resources/media/84.jpg" class="img-responsive" />
+</a>
+</div>
+</div>
+
+
+<div class="grid-view-info hidden-xs">
+	<div class="col-xs-6 col-sm-6 col-md-3 col-lg-3">
+		<div class="panel panel-default">
+			<div class="panel-heading">
+				<p class="text-center">
+					<a href="./tickets/view/?showid=84">Defending the Caveman</a>
+				</p>
+			</div>
+			<div class="panel-body dated-panel">
+				<div class="grid-cal-date">June 5th</div>
+				<a href="./tickets/view/?showid=84"><img src="/resources/media/84.jpg" class="img-responsive" />
+</a>
+				<div class="row">
+					<div class="col-xs-12">
+						<div class="panel-calendar hidden-xs hidden-sm hidden-md hidden-lg" >
+							<div class="panel panel-default text-center">
+								<div class="panel-heading" style="display:none">
+									Next Show:
+								</div>
+								<div class="panel-body">
+									<p>Sunday</p>
+									<h4>June<br />5th</h4>
+								</div>
+								<div class="panel-footer">
+									8:40PM
+
+								</div>
+
+							</div>
+							<div class="location">
+								<div class="row">
+
+									<div class="col-xs-12 text-center">
+									<a href="./tickets/view/?showid=84">
+										<button class="btn btn-md btn-orange col-xs-12"><i class="fa fa-calendar fa-fw"></i>See All Dates</button>
+									</a>
+									</div>
+								</div>
+							</div>
+						</div><!-- /.panel-calendar -->
+					</div>
+				</div>
+			</div><!-- panel body -->
+		</div>
+	</div><!-- panel -->
+</div><!-- grid-view-info -->
+
+
+			
+		<div class="grid-view-info visible-xs">
+<div class="col-xs-3 no-padding">
+<a href="./tickets/view/?showid=1725" class="thumbnail"><img src="/resources/media/1725.jpg" class="img-responsive" />
+</a>
+</div>
+</div>
+
+
+<div class="grid-view-info hidden-xs">
+	<div class="col-xs-6 col-sm-6 col-md-3 col-lg-3">
+		<div class="panel panel-default">
+			<div class="panel-heading">
+				<p class="text-center">
+					<a href="./tickets/view/?showid=1725">Laugh Factory</a>
+				</p>
+			</div>
+			<div class="panel-body dated-panel">
+				<div class="grid-cal-date">June 5th</div>
+				<a href="./tickets/view/?showid=1725"><img src="/resources/media/1725.jpg" class="img-responsive" />
+</a>
+				<div class="row">
+					<div class="col-xs-12">
+						<div class="panel-calendar hidden-xs hidden-sm hidden-md hidden-lg" >
+							<div class="panel panel-default text-center">
+								<div class="panel-heading" style="display:none">
+									Next Show:
+								</div>
+								<div class="panel-body">
+									<p>Sunday</p>
+									<h4>June<br />5th</h4>
+								</div>
+								<div class="panel-footer">
+									10:30PM
+
+								</div>
+
+							</div>
+							<div class="location">
+								<div class="row">
+
+									<div class="col-xs-12 text-center">
+									<a href="./tickets/view/?showid=1725">
+										<button class="btn btn-md btn-orange col-xs-12"><i class="fa fa-calendar fa-fw"></i>See All Dates</button>
+									</a>
+									</div>
+								</div>
+							</div>
+						</div><!-- /.panel-calendar -->
+					</div>
+				</div>
+			</div><!-- panel body -->
+		</div>
+	</div><!-- panel -->
+</div><!-- grid-view-info -->
+
+
+	</div>
+</div>
+<div class="grid-view-info">
+	<div class="row">
+		
+			
+		<div class="grid-view-info visible-xs">
+<div class="col-xs-3 no-padding">
+<a href="./tickets/view/?showid=3398" class="thumbnail"><img src="/resources/media/3398.jpg" class="img-responsive" />
+</a>
+</div>
+</div>
+
+
+<div class="grid-view-info hidden-xs">
+	<div class="col-xs-6 col-sm-6 col-md-3 col-lg-3">
+		<div class="panel panel-default">
+			<div class="panel-heading">
+				<p class="text-center">
+					<a href="./tickets/view/?showid=3398">Led Zepagain - Tribute To Led Zeppelin</a>
+				</p>
+			</div>
+			<div class="panel-body dated-panel">
+				<div class="grid-cal-date">June 8th</div>
+				<a href="./tickets/view/?showid=3398"><img src="/resources/media/3398.jpg" class="img-responsive" />
+</a>
+				<div class="row">
+					<div class="col-xs-12">
+						<div class="panel-calendar hidden-xs hidden-sm hidden-md hidden-lg" >
+							<div class="panel panel-default text-center">
+								<div class="panel-heading" style="display:none">
+									Next Show:
+								</div>
+								<div class="panel-body">
+									<p>Wednesday</p>
+									<h4>June<br />8th</h4>
+								</div>
+								<div class="panel-footer">
+									7:30PM
+
+								</div>
+
+							</div>
+							<div class="location">
+								<div class="row">
+
+									<div class="col-xs-12 text-center">
+									<a href="./tickets/view/?showid=3398">
+										<button class="btn btn-md btn-orange col-xs-12"><i class="fa fa-calendar fa-fw"></i>See All Dates</button>
+									</a>
+									</div>
+								</div>
+							</div>
+						</div><!-- /.panel-calendar -->
+					</div>
+				</div>
+			</div><!-- panel body -->
+		</div>
+	</div><!-- panel -->
+</div><!-- grid-view-info -->
+
+
+	</div>
+</div>
+			</div>
+			<div class="clearfix"></div>
+			<div class="row">
+				<div class="col-xs-12 text-center">
+					<div id="list-view-info" style="display: none">
+<div class="list-view-info">
+				<div class="well">
+				<div class="row">
+
+					<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+						<a href="./tickets/view/?showid=2083"><img src="/resources/media/2083.jpg" class="img-responsive" />
+</a>
+					</div>
+					<div class="col-lg-6 col-md-6 col-sm-4 col-xs-12 text-left">
+
+						<h1><a href="./tickets/view/?showid=2083">Laughternoon Starring Comedy-Magician Adam London</a></h1>
+
+<h3><i class="fa fa-fw fa-location-arrow"></i>2nd Floor Showroom at The D Las Vegas (Formerly Fitzgerald's Hotel)</h3>
+
+						<p><p>Comedy Magician Adam London stars in Laughternoon inside the newly remodeled showroom at the D las vegas. Adam combines his fun and unique personality with magic. He is witty, charismatic, and makes everyone feel like they're his very best <a href="./tickets/view/?showid=2083">[...]</a></p>
+
+
+					</div>
+
+					<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+											<div class="panel-calendar text-center">
+
+							<div class="panel panel-default">
+								<div class="panel-heading">
+									Next Show:
+								</div>
+								<div class="panel-body">
+									<p>Friday</p><h4>June<br />3rd</h4>
+								</div>
+								<div class="panel-footer">
+									4:00PM
+								</div>
+							</div>
+
+							<a href="./tickets/view/?showid=2083"><button class="btn btn-md btn-orange col-xs-12"><i class="fa fa-calendar fa-fw"></i>See All Dates</button></a>
+
+						</div><!-- /.panel-calendar -->
+
+
+					</div>
+				</div>
+				</div>
+</div>
+				<hr /><div class="list-view-info">
+				<div class="well">
+				<div class="row">
+
+					<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+						<a href="./tickets/view/?showid=2280"><img src="/resources/media/2280.jpg" class="img-responsive" />
+</a>
+					</div>
+					<div class="col-lg-6 col-md-6 col-sm-4 col-xs-12 text-left">
+
+						<h1><a href="./tickets/view/?showid=2280">Paranormal - The Show Starring Mentalist Frederic Da Silva</a></h1>
+
+<h3><i class="fa fa-fw fa-location-arrow"></i>Windows at Bally's</h3>
+
+						<p><p>Watching a performance by Frederic Da Silva is like getting on first-name basis with a mystery without really understanding it. International mentalist Frederic Da Silva brings his renowned show PARANORMAL to Las Vegas for a limited engagement. <a href="./tickets/view/?showid=2280">[...]</a></p>
+
+
+					</div>
+
+					<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+											<div class="panel-calendar text-center">
+
+							<div class="panel panel-default">
+								<div class="panel-heading">
+									Next Show:
+								</div>
+								<div class="panel-body">
+									<p>Friday</p><h4>June<br />3rd</h4>
+								</div>
+								<div class="panel-footer">
+									4:00PM
+								</div>
+							</div>
+
+							<a href="./tickets/view/?showid=2280"><button class="btn btn-md btn-orange col-xs-12"><i class="fa fa-calendar fa-fw"></i>See All Dates</button></a>
+
+						</div><!-- /.panel-calendar -->
+
+
+					</div>
+				</div>
+				</div>
+</div>
+				<hr /><div class="list-view-info">
+				<div class="well">
+				<div class="row">
+
+					<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+						<a href="./tickets/view/?showid=2000"><img src="/resources/media/2000.jpg" class="img-responsive" />
+</a>
+					</div>
+					<div class="col-lg-6 col-md-6 col-sm-4 col-xs-12 text-left">
+
+						<h1><a href="./tickets/view/?showid=2000">Tommy Wind - Magic, Music &amp; More!</a></h1>
+
+<h3><i class="fa fa-fw fa-location-arrow"></i>TW Theater</h3>
+
+						<p><p>Tommy Wind combines his love of Magic and Music, which he has cultivated over many years, into a truly unique show that will debut at the Boulevard Theater on the famous Las Vegas Strip. Straight from the creative mind of Tommy Wind, many of the <a href="./tickets/view/?showid=2000">[...]</a></p>
+
+
+					</div>
+
+					<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+											<div class="panel-calendar text-center">
+
+							<div class="panel panel-default">
+								<div class="panel-heading">
+									Next Show:
+								</div>
+								<div class="panel-body">
+									<p>Friday</p><h4>June<br />3rd</h4>
+								</div>
+								<div class="panel-footer">
+									6:00PM
+								</div>
+							</div>
+
+							<a href="./tickets/view/?showid=2000"><button class="btn btn-md btn-orange col-xs-12"><i class="fa fa-calendar fa-fw"></i>See All Dates</button></a>
+
+						</div><!-- /.panel-calendar -->
+
+
+					</div>
+				</div>
+				</div>
+</div>
+				<hr /><div class="list-view-info">
+				<div class="well">
+				<div class="row">
+
+					<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+						<a href="./tickets/view/?showid=3810"><img src="/resources/media/3810.jpg" class="img-responsive" />
+</a>
+					</div>
+					<div class="col-lg-6 col-md-6 col-sm-4 col-xs-12 text-left">
+
+						<h1><a href="./tickets/view/?showid=3810">Paragon Pro Wrestling</a></h1>
+
+<h3><i class="fa fa-fw fa-location-arrow"></i>Sam's Town Live! at Sam's Town Hotel & Casino</h3>
+
+						<p><p class="MsoNormal" style="mso-pagination: none; mso-layout-grid-align: none; text-autospace: none;"><strong><u><span style="mso-bidi-font-size: 13.0pt; font-family: Verdana; mso-bidi-font-family: Geneva;">***THIS EVENT WILL TAKE PLACE ON FRIDAY, <a href="./tickets/view/?showid=3810">[...]</a></p>
+
+
+					</div>
+
+					<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+											<div class="panel-calendar text-center">
+
+							<div class="panel panel-default">
+								<div class="panel-heading">
+									Next Show:
+								</div>
+								<div class="panel-body">
+									<p>Friday</p><h4>June<br />3rd</h4>
+								</div>
+								<div class="panel-footer">
+									6:30PM
+								</div>
+							</div>
+
+							<a href="./tickets/view/?showid=3810"><button class="btn btn-md btn-orange col-xs-12"><i class="fa fa-calendar fa-fw"></i>See All Dates</button></a>
+
+						</div><!-- /.panel-calendar -->
+
+
+					</div>
+				</div>
+				</div>
+</div>
+				<hr /><div class="list-view-info">
+				<div class="well">
+				<div class="row">
+
+					<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+						<a href="./tickets/view/?showid=3931"><img src="/resources/media/3931.jpg" class="img-responsive" />
+</a>
+					</div>
+					<div class="col-lg-6 col-md-6 col-sm-4 col-xs-12 text-left">
+
+						<h1><a href="./tickets/view/?showid=3931">The HAPPY-HAPPY Hour Comedy Show</a></h1>
+
+<h3><i class="fa fa-fw fa-location-arrow"></i>L.A. Comedy Club at The Stratosphere Hotel & Casino</h3>
+
+						<p><p>The L.A. Comedy Club is proud to announce&nbsp;our newest show - "Happy-Happy Hour Comedy Show". &nbsp;</p>
+<p>The resident headliner for this show will be Lisa Landry (Stand Up Comedian). &nbsp;Featuring for this show will be Mon Dre <a href="./tickets/view/?showid=3931">[...]</a></p>
+
+
+					</div>
+
+					<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+											<div class="panel-calendar text-center">
+
+							<div class="panel panel-default">
+								<div class="panel-heading">
+									Next Show:
+								</div>
+								<div class="panel-body">
+									<p>Friday</p><h4>June<br />3rd</h4>
+								</div>
+								<div class="panel-footer">
+									6:30PM
+								</div>
+							</div>
+
+							<a href="./tickets/view/?showid=3931"><button class="btn btn-md btn-orange col-xs-12"><i class="fa fa-calendar fa-fw"></i>See All Dates</button></a>
+
+						</div><!-- /.panel-calendar -->
+
+
+					</div>
+				</div>
+				</div>
+</div>
+				<hr /><div class="list-view-info">
+				<div class="well">
+				<div class="row">
+
+					<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+						<a href="./tickets/view/?showid=1098"><img src="/resources/media/1098.jpg" class="img-responsive" />
+</a>
+					</div>
+					<div class="col-lg-6 col-md-6 col-sm-4 col-xs-12 text-left">
+
+						<h1><a href="./tickets/view/?showid=1098">Mike Hammers Comedy Magic Show</a></h1>
+
+<h3><i class="fa fa-fw fa-location-arrow"></i>Canyon Club at the Four Queens Hotel & Casino</h3>
+
+						<p><p>"You may have seen other magicians, but Hammer gives it the extra dimension." LAS VEGAS REVIEW JOURNAL When Hammer hits the stage you know you're in for a ride. He is a master of cutting wit and non-stop improvisation... every show an original. <a href="./tickets/view/?showid=1098">[...]</a></p>
+
+
+					</div>
+
+					<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+											<div class="panel-calendar text-center">
+
+							<div class="panel panel-default">
+								<div class="panel-heading">
+									Next Show:
+								</div>
+								<div class="panel-body">
+									<p>Friday</p><h4>June<br />3rd</h4>
+								</div>
+								<div class="panel-footer">
+									7:00PM
+								</div>
+							</div>
+
+							<a href="./tickets/view/?showid=1098"><button class="btn btn-md btn-orange col-xs-12"><i class="fa fa-calendar fa-fw"></i>See All Dates</button></a>
+
+						</div><!-- /.panel-calendar -->
+
+
+					</div>
+				</div>
+				</div>
+</div>
+				<hr /><div class="list-view-info">
+				<div class="well">
+				<div class="row">
+
+					<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+						<a href="./tickets/view/?showid=4024"><img src="/resources/media/4024.jpg" class="img-responsive" />
+</a>
+					</div>
+					<div class="col-lg-6 col-md-6 col-sm-4 col-xs-12 text-left">
+
+						<h1><a href="./tickets/view/?showid=4024">The Tommy Lama</a></h1>
+
+<h3><i class="fa fa-fw fa-location-arrow"></i>Laugh Factory at Tropicana Las Vegas</h3>
+
+						<p><p>Tommy Lama is the hilarious alter ego of Multi-Award Winning Comedian Tommy Savitt, a Brooklyn tough guy's answer to new age. Think Andrew Dice Clay meets Deepak Chopra. Tommy Lama is a politically incorrect spiritual healer who breaks all the <a href="./tickets/view/?showid=4024">[...]</a></p>
+
+
+					</div>
+
+					<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+											<div class="panel-calendar text-center">
+
+							<div class="panel panel-default">
+								<div class="panel-heading">
+									Next Show:
+								</div>
+								<div class="panel-body">
+									<p>Friday</p><h4>June<br />3rd</h4>
+								</div>
+								<div class="panel-footer">
+									7:00PM
+								</div>
+							</div>
+
+							<a href="./tickets/view/?showid=4024"><button class="btn btn-md btn-orange col-xs-12"><i class="fa fa-calendar fa-fw"></i>See All Dates</button></a>
+
+						</div><!-- /.panel-calendar -->
+
+
+					</div>
+				</div>
+				</div>
+</div>
+				<hr /><div class="list-view-info">
+				<div class="well">
+				<div class="row">
+
+					<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+						<a href="./tickets/view/?showid=3706"><img src="/resources/media/3706.jpg" class="img-responsive" />
+</a>
+					</div>
+					<div class="col-lg-6 col-md-6 col-sm-4 col-xs-12 text-left">
+
+						<h1><a href="./tickets/view/?showid=3706">Evil Dead The Musical (NEW LOCATION)</a></h1>
+
+<h3><i class="fa fa-fw fa-location-arrow"></i>TW Theater</h3>
+
+						<p><p><span style="text-decoration: underline;"><strong>***PLEASE NOTE THIS SHOW&rsquo;S NEW LOCATION AT THE TW THEATER***</strong></span></p>
+<p>Endorsed by Bruce Campbell, embraced by Sam Raimi, this is the official real deal live stage show of the <a href="./tickets/view/?showid=3706">[...]</a></p>
+
+
+					</div>
+
+					<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+											<div class="panel-calendar text-center">
+
+							<div class="panel panel-default">
+								<div class="panel-heading">
+									Next Show:
+								</div>
+								<div class="panel-body">
+									<p>Friday</p><h4>June<br />3rd</h4>
+								</div>
+								<div class="panel-footer">
+									7:30PM
+								</div>
+							</div>
+
+							<a href="./tickets/view/?showid=3706"><button class="btn btn-md btn-orange col-xs-12"><i class="fa fa-calendar fa-fw"></i>See All Dates</button></a>
+
+						</div><!-- /.panel-calendar -->
+
+
+					</div>
+				</div>
+				</div>
+</div>
+				<hr /><div class="list-view-info">
+				<div class="well">
+				<div class="row">
+
+					<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+						<a href="./tickets/view/?showid=3305"><img src="/resources/media/3305.jpg" class="img-responsive" />
+</a>
+					</div>
+					<div class="col-lg-6 col-md-6 col-sm-4 col-xs-12 text-left">
+
+						<h1><a href="./tickets/view/?showid=3305">X Comedy Uncensored Fun</a></h1>
+
+<h3><i class="fa fa-fw fa-location-arrow"></i>Bugsy's Cabaret at Flamingo Las Vegas</h3>
+
+						<p><p>The producers of X Burlesque proudly present "X Comedy Uncensored Fun" an adult themed comedy show. &nbsp;X Comedy is the most laughs you'll have at one show in Las Vegas! Starring comic genius Todd Paul, Dennis Blair who opened for George Carlin <a href="./tickets/view/?showid=3305">[...]</a></p>
+
+
+					</div>
+
+					<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+											<div class="panel-calendar text-center">
+
+							<div class="panel panel-default">
+								<div class="panel-heading">
+									Next Show:
+								</div>
+								<div class="panel-body">
+									<p>Friday</p><h4>June<br />3rd</h4>
+								</div>
+								<div class="panel-footer">
+									8:00PM
+								</div>
+							</div>
+
+							<a href="./tickets/view/?showid=3305"><button class="btn btn-md btn-orange col-xs-12"><i class="fa fa-calendar fa-fw"></i>See All Dates</button></a>
+
+						</div><!-- /.panel-calendar -->
+
+
+					</div>
+				</div>
+				</div>
+</div>
+				<hr /><div class="list-view-info">
+				<div class="well">
+				<div class="row">
+
+					<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+						<a href="./tickets/view/?showid=3737"><img src="/resources/media/3737.jpg" class="img-responsive" />
+</a>
+					</div>
+					<div class="col-lg-6 col-md-6 col-sm-4 col-xs-12 text-left">
+
+						<h1><a href="./tickets/view/?showid=3737">L.A. Comedy Club - NEW LOCATION!</a></h1>
+
+<h3><i class="fa fa-fw fa-location-arrow"></i>The Dragon Room at The Stratosphere Hotel & Casino</h3>
+
+						<p><p><span style="text-decoration: underline;"><strong>**PLEASE NOTE: L.A. COMEDY CLUB NOW PERFORMS IN ITS NEW LOCATION AT THE STRATOSPHERE HOTEL &amp; CASINO.</strong></span></p>
+<p>Now open in the Stratosphere Tower Shops - GREAT COMEDY IS BORN IN <a href="./tickets/view/?showid=3737">[...]</a></p>
+
+
+					</div>
+
+					<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+											<div class="panel-calendar text-center">
+
+							<div class="panel panel-default">
+								<div class="panel-heading">
+									Next Show:
+								</div>
+								<div class="panel-body">
+									<p>Friday</p><h4>June<br />3rd</h4>
+								</div>
+								<div class="panel-footer">
+									8:00PM
+								</div>
+							</div>
+
+							<a href="./tickets/view/?showid=3737"><button class="btn btn-md btn-orange col-xs-12"><i class="fa fa-calendar fa-fw"></i>See All Dates</button></a>
+
+						</div><!-- /.panel-calendar -->
+
+
+					</div>
+				</div>
+				</div>
+</div>
+				<hr /><div class="list-view-info">
+				<div class="well">
+				<div class="row">
+
+					<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+						<a href="./tickets/view/?showid=3848"><img src="/resources/media/3848.jpg" class="img-responsive" />
+</a>
+					</div>
+					<div class="col-lg-6 col-md-6 col-sm-4 col-xs-12 text-left">
+
+						<h1><a href="./tickets/view/?showid=3848">Bonkerz Comedy at Rockhouse Las Vegas</a></h1>
+
+<h3><i class="fa fa-fw fa-location-arrow"></i>Rockhouse Las Vegas (at The Grand Canal Shoppes in The Venetian)</h3>
+
+						<p><p><span style="text-decoration: underline;"><strong>**PLEASE NOTE:&nbsp; THIS COMPLIMENTARY OFFER IS FOR &ldquo;SHOW ONLY&rdquo; TICKETS, AND DOES NOT INCLUDE DINNER &amp; DRINKS.&rdquo;</strong></span></p>
+<p>Get ready for a night of gut busting <a href="./tickets/view/?showid=3848">[...]</a></p>
+
+
+					</div>
+
+					<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+											<div class="panel-calendar text-center">
+
+							<div class="panel panel-default">
+								<div class="panel-heading">
+									Next Show:
+								</div>
+								<div class="panel-body">
+									<p>Friday</p><h4>June<br />3rd</h4>
+								</div>
+								<div class="panel-footer">
+									8:00PM
+								</div>
+							</div>
+
+							<a href="./tickets/view/?showid=3848"><button class="btn btn-md btn-orange col-xs-12"><i class="fa fa-calendar fa-fw"></i>See All Dates</button></a>
+
+						</div><!-- /.panel-calendar -->
+
+
+					</div>
+				</div>
+				</div>
+</div>
+				<hr /><div class="list-view-info">
+				<div class="well">
+				<div class="row">
+
+					<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+						<a href="./tickets/view/?showid=4015"><img src="/resources/media/4015.jpg" class="img-responsive" />
+</a>
+					</div>
+					<div class="col-lg-6 col-md-6 col-sm-4 col-xs-12 text-left">
+
+						<h1><a href="./tickets/view/?showid=4015">Jackie Z Residency Debut</a></h1>
+
+<h3><i class="fa fa-fw fa-location-arrow"></i>Rendezvous Wine & Dine</h3>
+
+						<p><p>Come and see TickleMe Entertainment's newest up and coming talent, Singer Jackie Zulueta! Jackie has headlined at the Harrah's Casino in Laughlin and the Orleans Arena. &nbsp;</p>
+<p>Jackie is a locals favorite in Las Vegas and she is excited <a href="./tickets/view/?showid=4015">[...]</a></p>
+
+
+					</div>
+
+					<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+											<div class="panel-calendar text-center">
+
+							<div class="panel panel-default">
+								<div class="panel-heading">
+									Next Show:
+								</div>
+								<div class="panel-body">
+									<p>Friday</p><h4>June<br />3rd</h4>
+								</div>
+								<div class="panel-footer">
+									8:00PM
+								</div>
+							</div>
+
+							<a href="./tickets/view/?showid=4015"><button class="btn btn-md btn-orange col-xs-12"><i class="fa fa-calendar fa-fw"></i>See All Dates</button></a>
+
+						</div><!-- /.panel-calendar -->
+
+
+					</div>
+				</div>
+				</div>
+</div>
+				<hr /><div class="list-view-info">
+				<div class="well">
+				<div class="row">
+
+					<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+						<a href="./tickets/view/?showid=4022"><img src="/resources/media/4022.jpg" class="img-responsive" />
+</a>
+					</div>
+					<div class="col-lg-6 col-md-6 col-sm-4 col-xs-12 text-left">
+
+						<h1><a href="./tickets/view/?showid=4022">(LAUGHLIN) Country Superstars at Riverside Resort in Laughlin</a></h1>
+
+<h3><i class="fa fa-fw fa-location-arrow"></i>Don's Celebrity Theater Riverside Resort Hotel & Casino</h3>
+
+						<p><p><span style="text-decoration: underline;"><strong>***PLEASE READ BEFORE RESERVING!!!!!***</strong></span></p>
+<p><span style="text-decoration: underline;"><strong>***THIS SHOW TAKES PLACE IN LAUGHLIN, NEVADA AT DON LAUGHLIN'S RIVERSIDE RESORT <a href="./tickets/view/?showid=4022">[...]</a></p>
+
+
+					</div>
+
+					<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+											<div class="panel-calendar text-center">
+
+							<div class="panel panel-default">
+								<div class="panel-heading">
+									Next Show:
+								</div>
+								<div class="panel-body">
+									<p>Friday</p><h4>June<br />3rd</h4>
+								</div>
+								<div class="panel-footer">
+									8:00PM
+								</div>
+							</div>
+
+							<a href="./tickets/view/?showid=4022"><button class="btn btn-md btn-orange col-xs-12"><i class="fa fa-calendar fa-fw"></i>See All Dates</button></a>
+
+						</div><!-- /.panel-calendar -->
+
+
+					</div>
+				</div>
+				</div>
+</div>
+				<hr /><div class="list-view-info">
+				<div class="well">
+				<div class="row">
+
+					<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+						<a href="./tickets/view/?showid=3592"><img src="/resources/media/3592.jpg" class="img-responsive" />
+</a>
+					</div>
+					<div class="col-lg-6 col-md-6 col-sm-4 col-xs-12 text-left">
+
+						<h1><a href="./tickets/view/?showid=3592">Kevin Lepine Hypnosis Unleashed</a></h1>
+
+<h3><i class="fa fa-fw fa-location-arrow"></i>Binion's Gambling Hall</h3>
+
+						<p><p style="text-align: left;" align="CENTER"><strong>*NEW LOCATION! - AT BINION'S LOCATED IN DOWNTOWN LAS VEGAS.</strong></p>
+<p style="text-align: left;" align="CENTER">2 Time Best of Vegas Winner - &ldquo;As racy as it is charming!&rdquo; ~ Las <a href="./tickets/view/?showid=3592">[...]</a></p>
+
+
+					</div>
+
+					<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+											<div class="panel-calendar text-center">
+
+							<div class="panel panel-default">
+								<div class="panel-heading">
+									Next Show:
+								</div>
+								<div class="panel-body">
+									<p>Friday</p><h4>June<br />3rd</h4>
+								</div>
+								<div class="panel-footer">
+									8:30PM
+								</div>
+							</div>
+
+							<a href="./tickets/view/?showid=3592"><button class="btn btn-md btn-orange col-xs-12"><i class="fa fa-calendar fa-fw"></i>See All Dates</button></a>
+
+						</div><!-- /.panel-calendar -->
+
+
+					</div>
+				</div>
+				</div>
+</div>
+				<hr /><div class="list-view-info">
+				<div class="well">
+				<div class="row">
+
+					<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+						<a href="./tickets/view/?showid=3856"><img src="/resources/media/3856.jpg" class="img-responsive" />
+</a>
+					</div>
+					<div class="col-lg-6 col-md-6 col-sm-4 col-xs-12 text-left">
+
+						<h1><a href="./tickets/view/?showid=3856">53X</a></h1>
+
+<h3><i class="fa fa-fw fa-location-arrow"></i>Chateau Nighclub at Paris Las Vegas</h3>
+
+						<p><p>53X gets&nbsp; you&nbsp; turn&rsquo;t&nbsp; up&nbsp; and&nbsp; turned&nbsp; on!&nbsp;&nbsp;&nbsp; Created&nbsp; by&nbsp; the&nbsp; producers&nbsp; of Chippendales, 53X boasts&nbsp; the&nbsp; same energetic sex appeal that made their male <a href="./tickets/view/?showid=3856">[...]</a></p>
+
+
+					</div>
+
+					<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+											<div class="panel-calendar text-center">
+
+							<div class="panel panel-default">
+								<div class="panel-heading">
+									Next Show:
+								</div>
+								<div class="panel-body">
+									<p>Friday</p><h4>June<br />3rd</h4>
+								</div>
+								<div class="panel-footer">
+									8:30PM
+								</div>
+							</div>
+
+							<a href="./tickets/view/?showid=3856"><button class="btn btn-md btn-orange col-xs-12"><i class="fa fa-calendar fa-fw"></i>See All Dates</button></a>
+
+						</div><!-- /.panel-calendar -->
+
+
+					</div>
+				</div>
+				</div>
+</div>
+				<hr /><div class="list-view-info">
+				<div class="well">
+				<div class="row">
+
+					<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+						<a href="./tickets/view/?showid=2385"><img src="/resources/media/2385.jpg" class="img-responsive" />
+</a>
+					</div>
+					<div class="col-lg-6 col-md-6 col-sm-4 col-xs-12 text-left">
+
+						<h1><a href="./tickets/view/?showid=2385">Las Vegas Live Comedy Club</a></h1>
+
+<h3><i class="fa fa-fw fa-location-arrow"></i>V Theater's V2 Showroom at Planet Hollywood Hotel & Casino</h3>
+
+						<p><p>Las Vegas has a new home for the Best Comedy in the Country. "Las Vegas Live" Comedy Club will bring together a cross section of best comedians from NY, Chicago, Boston, L.A., and Las Vegas. Make this Vegas show one of the top things to do on <a href="./tickets/view/?showid=2385">[...]</a></p>
+
+
+					</div>
+
+					<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+											<div class="panel-calendar text-center">
+
+							<div class="panel panel-default">
+								<div class="panel-heading">
+									Next Show:
+								</div>
+								<div class="panel-body">
+									<p>Friday</p><h4>June<br />3rd</h4>
+								</div>
+								<div class="panel-footer">
+									9:00PM
+								</div>
+							</div>
+
+							<a href="./tickets/view/?showid=2385"><button class="btn btn-md btn-orange col-xs-12"><i class="fa fa-calendar fa-fw"></i>See All Dates</button></a>
+
+						</div><!-- /.panel-calendar -->
+
+
+					</div>
+				</div>
+				</div>
+</div>
+				<hr /><div class="list-view-info">
+				<div class="well">
+				<div class="row">
+
+					<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+						<a href="./tickets/view/?showid=2786"><img src="/resources/media/2786.jpg" class="img-responsive" />
+</a>
+					</div>
+					<div class="col-lg-6 col-md-6 col-sm-4 col-xs-12 text-left">
+
+						<h1><a href="./tickets/view/?showid=2786">Spirit of the King: Steve Connolly</a></h1>
+
+<h3><i class="fa fa-fw fa-location-arrow"></i>Canyon Club at the Four Queens Hotel & Casino</h3>
+
+						<p><p>"Best I ever saw" Steven Tyler - Aerosmith</p>
+<p>Steve Connolly remains the only entertainer depicting Elvis to be chosen by the staff of The Las Vegas Review-Journal in consecutive years as "Best Elvis in Las Vegas". In addition to hundreds of <a href="./tickets/view/?showid=2786">[...]</a></p>
+
+
+					</div>
+
+					<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+											<div class="panel-calendar text-center">
+
+							<div class="panel panel-default">
+								<div class="panel-heading">
+									Next Show:
+								</div>
+								<div class="panel-body">
+									<p>Friday</p><h4>June<br />3rd</h4>
+								</div>
+								<div class="panel-footer">
+									9:00PM
+								</div>
+							</div>
+
+							<a href="./tickets/view/?showid=2786"><button class="btn btn-md btn-orange col-xs-12"><i class="fa fa-calendar fa-fw"></i>See All Dates</button></a>
+
+						</div><!-- /.panel-calendar -->
+
+
+					</div>
+				</div>
+				</div>
+</div>
+				<hr /><div class="list-view-info">
+				<div class="well">
+				<div class="row">
+
+					<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+						<a href="./tickets/view/?showid=731"><img src="/resources/media/731.jpg" class="img-responsive" />
+</a>
+					</div>
+					<div class="col-lg-6 col-md-6 col-sm-4 col-xs-12 text-left">
+
+						<h1><a href="./tickets/view/?showid=731">Frank Marino&#039;s Divas Las Vegas</a></h1>
+
+<h3><i class="fa fa-fw fa-location-arrow"></i>The Linq Hotel & Casino (formerly The Quad)</h3>
+
+						<p><p>Who knew you could see Britney, Rihanna, Madonna, Katy Perry and Lady Gaga&ndash;in drag&ndash;all in one show? For an unforgettable Las Vegas show experience, look no further than Frank Marino's Divas Las Vegas.</p>
+<p>Bursting with energy, the <a href="./tickets/view/?showid=731">[...]</a></p>
+
+
+					</div>
+
+					<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+											<div class="panel-calendar text-center">
+
+							<div class="panel panel-default">
+								<div class="panel-heading">
+									Next Show:
+								</div>
+								<div class="panel-body">
+									<p>Friday</p><h4>June<br />3rd</h4>
+								</div>
+								<div class="panel-footer">
+									9:30PM
+								</div>
+							</div>
+
+							<a href="./tickets/view/?showid=731"><button class="btn btn-md btn-orange col-xs-12"><i class="fa fa-calendar fa-fw"></i>See All Dates</button></a>
+
+						</div><!-- /.panel-calendar -->
+
+
+					</div>
+				</div>
+				</div>
+</div>
+				<hr /><div class="list-view-info">
+				<div class="well">
+				<div class="row">
+
+					<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+						<a href="./tickets/view/?showid=2139"><img src="/resources/media/2139.jpg" class="img-responsive" />
+</a>
+					</div>
+					<div class="col-lg-6 col-md-6 col-sm-4 col-xs-12 text-left">
+
+						<h1><a href="./tickets/view/?showid=2139">PIN UP</a></h1>
+
+<h3><i class="fa fa-fw fa-location-arrow"></i>Stratosphere Theatre</h3>
+
+						<p><p>PIN UP brings the classic pin up girl calendar to life month by month through incredible live music, dance and variety! Starring Claire Sinclair, and featuring an impressive cast of dancers, singers and a live six-piece band with a horn section, <a href="./tickets/view/?showid=2139">[...]</a></p>
+
+
+					</div>
+
+					<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+											<div class="panel-calendar text-center">
+
+							<div class="panel panel-default">
+								<div class="panel-heading">
+									Next Show:
+								</div>
+								<div class="panel-body">
+									<p>Friday</p><h4>June<br />3rd</h4>
+								</div>
+								<div class="panel-footer">
+									9:30PM
+								</div>
+							</div>
+
+							<a href="./tickets/view/?showid=2139"><button class="btn btn-md btn-orange col-xs-12"><i class="fa fa-calendar fa-fw"></i>See All Dates</button></a>
+
+						</div><!-- /.panel-calendar -->
+
+
+					</div>
+				</div>
+				</div>
+</div>
+				<hr /><div class="list-view-info">
+				<div class="well">
+				<div class="row">
+
+					<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+						<a href="./tickets/view/?showid=3948"><img src="/resources/media/3948.jpg" class="img-responsive" />
+</a>
+					</div>
+					<div class="col-lg-6 col-md-6 col-sm-4 col-xs-12 text-left">
+
+						<h1><a href="./tickets/view/?showid=3948">STEELE</a></h1>
+
+<h3><i class="fa fa-fw fa-location-arrow"></i>TW Theater</h3>
+
+						<p><p>The newest male revue to hit the Las Vegas Strip! From the makers of the original Magic Mike, Vegas&rsquo; hottest men perform live on stage for 70 minutes of choreographed and costumed seduction. Create and fulfill your wildest fantasies with <a href="./tickets/view/?showid=3948">[...]</a></p>
+
+
+					</div>
+
+					<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+											<div class="panel-calendar text-center">
+
+							<div class="panel panel-default">
+								<div class="panel-heading">
+									Next Show:
+								</div>
+								<div class="panel-body">
+									<p>Friday</p><h4>June<br />3rd</h4>
+								</div>
+								<div class="panel-footer">
+									9:30PM
+								</div>
+							</div>
+
+							<a href="./tickets/view/?showid=3948"><button class="btn btn-md btn-orange col-xs-12"><i class="fa fa-calendar fa-fw"></i>See All Dates</button></a>
+
+						</div><!-- /.panel-calendar -->
+
+
+					</div>
+				</div>
+				</div>
+</div>
+				<hr /><div class="list-view-info">
+				<div class="well">
+				<div class="row">
+
+					<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+						<a href="./tickets/view/?showid=2298"><img src="/resources/media/2298.jpg" class="img-responsive" />
+</a>
+					</div>
+					<div class="col-lg-6 col-md-6 col-sm-4 col-xs-12 text-left">
+
+						<h1><a href="./tickets/view/?showid=2298">X Rocks</a></h1>
+
+<h3><i class="fa fa-fw fa-location-arrow"></i>The King's Room at the Rio Hotel & Casino</h3>
+
+						<p><p>X Rocks has exactly what it takes to turn the party up. The stimulating, high-voltage Las Vegas show combines sensual dance routines and pulsating rock hits. These sultry X Girls strut to songs from Slash &amp; the Conspirators, MUSE, Metallica, <a href="./tickets/view/?showid=2298">[...]</a></p>
+
+
+					</div>
+
+					<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+											<div class="panel-calendar text-center">
+
+							<div class="panel panel-default">
+								<div class="panel-heading">
+									Next Show:
+								</div>
+								<div class="panel-body">
+									<p>Friday</p><h4>June<br />3rd</h4>
+								</div>
+								<div class="panel-footer">
+									10:00PM
+								</div>
+							</div>
+
+							<a href="./tickets/view/?showid=2298"><button class="btn btn-md btn-orange col-xs-12"><i class="fa fa-calendar fa-fw"></i>See All Dates</button></a>
+
+						</div><!-- /.panel-calendar -->
+
+
+					</div>
+				</div>
+				</div>
+</div>
+				<hr /><div class="list-view-info">
+				<div class="well">
+				<div class="row">
+
+					<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+						<a href="./tickets/view/?showid=3148"><img src="/resources/media/3148.jpg" class="img-responsive" />
+</a>
+					</div>
+					<div class="col-lg-6 col-md-6 col-sm-4 col-xs-12 text-left">
+
+						<h1><a href="./tickets/view/?showid=3148">Lovers or Losers LIVE Game Show</a></h1>
+
+<h3><i class="fa fa-fw fa-location-arrow"></i>Plaza Showroom at the Plaza Hotel & Casino</h3>
+
+						<p><p>**PLEASE NOTE: This show will be taped for TV, and you may be filmed in the audience.**</p>
+<p><a name="_GoBack"></a>Lovers or Losers is Las Vegas&rsquo; newest and funniest LIVE Game Show that is taped for TV. &nbsp;The show is hosted by Todd <a href="./tickets/view/?showid=3148">[...]</a></p>
+
+
+					</div>
+
+					<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+											<div class="panel-calendar text-center">
+
+							<div class="panel panel-default">
+								<div class="panel-heading">
+									Next Show:
+								</div>
+								<div class="panel-body">
+									<p>Friday</p><h4>June<br />3rd</h4>
+								</div>
+								<div class="panel-footer">
+									10:00PM
+								</div>
+							</div>
+
+							<a href="./tickets/view/?showid=3148"><button class="btn btn-md btn-orange col-xs-12"><i class="fa fa-calendar fa-fw"></i>See All Dates</button></a>
+
+						</div><!-- /.panel-calendar -->
+
+
+					</div>
+				</div>
+				</div>
+</div>
+				<hr /><div class="list-view-info">
+				<div class="well">
+				<div class="row">
+
+					<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+						<a href="./tickets/view/?showid=4012"><img src="/resources/media/4012.jpg" class="img-responsive" />
+</a>
+					</div>
+					<div class="col-lg-6 col-md-6 col-sm-4 col-xs-12 text-left">
+
+						<h1><a href="./tickets/view/?showid=4012">Kelsie May</a></h1>
+
+<h3><i class="fa fa-fw fa-location-arrow"></i>Stoney's Rockin' Country Las Vegas</h3>
+
+						<p><p>Singer/Songwriter Kelsie May, has lived in the Eastern Kentucky mountains all her life. The vast number of superstars born and raised along Eastern Kentucky's Country Music Highway 23 is astounding, this leading many to believe there's something <a href="./tickets/view/?showid=4012">[...]</a></p>
+
+
+					</div>
+
+					<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+											<div class="panel-calendar text-center">
+
+							<div class="panel panel-default">
+								<div class="panel-heading">
+									Next Show:
+								</div>
+								<div class="panel-body">
+									<p>Friday</p><h4>June<br />3rd</h4>
+								</div>
+								<div class="panel-footer">
+									10:00PM
+								</div>
+							</div>
+
+							<a href="./tickets/view/?showid=4012"><button class="btn btn-md btn-orange col-xs-12"><i class="fa fa-calendar fa-fw"></i>See All Dates</button></a>
+
+						</div><!-- /.panel-calendar -->
+
+
+					</div>
+				</div>
+				</div>
+</div>
+				<hr /><div class="list-view-info">
+				<div class="well">
+				<div class="row">
+
+					<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+						<a href="./tickets/view/?showid=4013"><img src="/resources/media/4013.jpg" class="img-responsive" />
+</a>
+					</div>
+					<div class="col-lg-6 col-md-6 col-sm-4 col-xs-12 text-left">
+
+						<h1><a href="./tickets/view/?showid=4013">The NashVegas Hit Makers Series</a></h1>
+
+<h3><i class="fa fa-fw fa-location-arrow"></i>Stoney's Rockin' Country Las Vegas</h3>
+
+						<p><p>From Music City to Sin City, Stoney&rsquo;s Rockin&rsquo; Country is proud to present the&nbsp; "NashVegas Hit Makers Series&rdquo;!&nbsp;</p>
+<p>This intimate, acoustic show brings to life the stories behind all of your favorite hits from the <a href="./tickets/view/?showid=4013">[...]</a></p>
+
+
+					</div>
+
+					<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+											<div class="panel-calendar text-center">
+
+							<div class="panel panel-default">
+								<div class="panel-heading">
+									Next Show:
+								</div>
+								<div class="panel-body">
+									<p>Saturday</p><h4>June<br />4th</h4>
+								</div>
+								<div class="panel-footer">
+									7:00PM
+								</div>
+							</div>
+
+							<a href="./tickets/view/?showid=4013"><button class="btn btn-md btn-orange col-xs-12"><i class="fa fa-calendar fa-fw"></i>See All Dates</button></a>
+
+						</div><!-- /.panel-calendar -->
+
+
+					</div>
+				</div>
+				</div>
+</div>
+				<hr /><div class="list-view-info">
+				<div class="well">
+				<div class="row">
+
+					<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+						<a href="./tickets/view/?showid=3994"><img src="/resources/media/3994.jpg" class="img-responsive" />
+</a>
+					</div>
+					<div class="col-lg-6 col-md-6 col-sm-4 col-xs-12 text-left">
+
+						<h1><a href="./tickets/view/?showid=3994">Casablanca Resort in MESQUITE Presents: Tony Sacca - All American Music</a></h1>
+
+<h3><i class="fa fa-fw fa-location-arrow"></i>The Casablanca Resort & Casino (IN MESQUITE, NV)</h3>
+
+						<p><p><strong><span style="text-decoration: underline;">**PLEASE NOTE: &nbsp;THIS SHOW TAKES PLACE AT THE CASABLANCA RESORT IN MESQUITE, NV!!!</span>&nbsp;</strong></p>
+<p><strong>**ALL MEMBERS WHO CHOOSE TO RESERVE FOR THIS OFFER MUST BE RESPONSIBLE <a href="./tickets/view/?showid=3994">[...]</a></p>
+
+
+					</div>
+
+					<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+											<div class="panel-calendar text-center">
+
+							<div class="panel panel-default">
+								<div class="panel-heading">
+									Next Show:
+								</div>
+								<div class="panel-body">
+									<p>Saturday</p><h4>June<br />4th</h4>
+								</div>
+								<div class="panel-footer">
+									7:30PM
+								</div>
+							</div>
+
+							<a href="./tickets/view/?showid=3994"><button class="btn btn-md btn-orange col-xs-12"><i class="fa fa-calendar fa-fw"></i>See All Dates</button></a>
+
+						</div><!-- /.panel-calendar -->
+
+
+					</div>
+				</div>
+				</div>
+</div>
+				<hr /><div class="list-view-info">
+				<div class="well">
+				<div class="row">
+
+					<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+						<a href="./tickets/view/?showid=3644"><img src="/resources/media/3644.jpg" class="img-responsive" />
+</a>
+					</div>
+					<div class="col-lg-6 col-md-6 col-sm-4 col-xs-12 text-left">
+
+						<h1><a href="./tickets/view/?showid=3644">X Country</a></h1>
+
+<h3><i class="fa fa-fw fa-location-arrow"></i>Harrah's Showroom at Harrah's Las Vegas</h3>
+
+						<p><p>The producers of X Burlesque, X Rocks and X Comedy have announced the newest addition to the &ldquo;X&rdquo; brand, with the premiere of X Country at Harrah&rsquo;s Las Vegas.<br />&nbsp;<br />A Kick&rsquo;n topless revue featuring a combination <a href="./tickets/view/?showid=3644">[...]</a></p>
+
+
+					</div>
+
+					<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+											<div class="panel-calendar text-center">
+
+							<div class="panel panel-default">
+								<div class="panel-heading">
+									Next Show:
+								</div>
+								<div class="panel-body">
+									<p>Saturday</p><h4>June<br />4th</h4>
+								</div>
+								<div class="panel-footer">
+									10:00PM
+								</div>
+							</div>
+
+							<a href="./tickets/view/?showid=3644"><button class="btn btn-md btn-orange col-xs-12"><i class="fa fa-calendar fa-fw"></i>See All Dates</button></a>
+
+						</div><!-- /.panel-calendar -->
+
+
+					</div>
+				</div>
+				</div>
+</div>
+				<hr /><div class="list-view-info">
+				<div class="well">
+				<div class="row">
+
+					<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+						<a href="./tickets/view/?showid=3065"><img src="/resources/media/3065.jpg" class="img-responsive" />
+</a>
+					</div>
+					<div class="col-lg-6 col-md-6 col-sm-4 col-xs-12 text-left">
+
+						<h1><a href="./tickets/view/?showid=3065">Sexxy</a></h1>
+
+<h3><i class="fa fa-fw fa-location-arrow"></i>Westgate Cabaret at The Westgate Las Vegas (Formerly The LVH - Las Vegas Hotel & Casino</h3>
+
+						<p><div class="description">
+<p>SEXXY, Las Vegas' newest Topless Revue by Jennifer Romas, is in the Westgate Cabaret. Leave your inhibitions at the door as you enter this erotic, forbidden, tantalizing world of everything SEXXY.</p>
+<p>SEXXY brings <a href="./tickets/view/?showid=3065">[...]</a></p>
+
+
+					</div>
+
+					<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+											<div class="panel-calendar text-center">
+
+							<div class="panel panel-default">
+								<div class="panel-heading">
+									Next Show:
+								</div>
+								<div class="panel-body">
+									<p>Saturday</p><h4>June<br />4th</h4>
+								</div>
+								<div class="panel-footer">
+									10:30PM
+								</div>
+							</div>
+
+							<a href="./tickets/view/?showid=3065"><button class="btn btn-md btn-orange col-xs-12"><i class="fa fa-calendar fa-fw"></i>See All Dates</button></a>
+
+						</div><!-- /.panel-calendar -->
+
+
+					</div>
+				</div>
+				</div>
+</div>
+				<hr /><div class="list-view-info">
+				<div class="well">
+				<div class="row">
+
+					<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+						<a href="./tickets/view/?showid=4020"><img src="/resources/media/4020.jpg" class="img-responsive" />
+</a>
+					</div>
+					<div class="col-lg-6 col-md-6 col-sm-4 col-xs-12 text-left">
+
+						<h1><a href="./tickets/view/?showid=4020">2016 MISS USA Finals at T-Mobile Arena</a></h1>
+
+<h3><i class="fa fa-fw fa-location-arrow"></i>T-Mobile Arena</h3>
+
+						<p><p><span style="text-decoration: underline;"><strong>*PLEASE READ ALL DETAILS BEFORE RESERVING!!!</strong></span></p>
+<p><span style="text-decoration: underline;"><strong>**PLEASE ALLOW PLENTY OF EXTRA TIME FOR TRAFFIC &amp; EVENT <a href="./tickets/view/?showid=4020">[...]</a></p>
+
+
+					</div>
+
+					<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+											<div class="panel-calendar text-center">
+
+							<div class="panel panel-default">
+								<div class="panel-heading">
+									Next Show:
+								</div>
+								<div class="panel-body">
+									<p>Sunday</p><h4>June<br />5th</h4>
+								</div>
+								<div class="panel-footer">
+									4:00PM
+								</div>
+							</div>
+
+							<a href="./tickets/view/?showid=4020"><button class="btn btn-md btn-orange col-xs-12"><i class="fa fa-calendar fa-fw"></i>See All Dates</button></a>
+
+						</div><!-- /.panel-calendar -->
+
+
+					</div>
+				</div>
+				</div>
+</div>
+				<hr /><div class="list-view-info">
+				<div class="well">
+				<div class="row">
+
+					<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+						<a href="./tickets/view/?showid=2590"><img src="/resources/media/2590.jpg" class="img-responsive" />
+</a>
+					</div>
+					<div class="col-lg-6 col-md-6 col-sm-4 col-xs-12 text-left">
+
+						<h1><a href="./tickets/view/?showid=2590">Swingin&#039; Sundays</a></h1>
+
+<h3><i class="fa fa-fw fa-location-arrow"></i>Ron Decar's Event Center</h3>
+
+						<p><p><strong>**Plated Meals, Dinner Buffet &amp; Drinks are available for purchase at the venue.</strong></p>
+<p><strong>**ALONG WITH YOUR COMPLIMENTARY house seats ADMISSION, THERE WILL ALSO BE A FULL MENU OF PLATED MEALS, DRINKS AND A DINNER BUFFET <a href="./tickets/view/?showid=2590">[...]</a></p>
+
+
+					</div>
+
+					<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+											<div class="panel-calendar text-center">
+
+							<div class="panel panel-default">
+								<div class="panel-heading">
+									Next Show:
+								</div>
+								<div class="panel-body">
+									<p>Sunday</p><h4>June<br />5th</h4>
+								</div>
+								<div class="panel-footer">
+									5:00PM
+								</div>
+							</div>
+
+							<a href="./tickets/view/?showid=2590"><button class="btn btn-md btn-orange col-xs-12"><i class="fa fa-calendar fa-fw"></i>See All Dates</button></a>
+
+						</div><!-- /.panel-calendar -->
+
+
+					</div>
+				</div>
+				</div>
+</div>
+				<hr /><div class="list-view-info">
+				<div class="well">
+				<div class="row">
+
+					<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+						<a href="./tickets/view/?showid=3952"><img src="/resources/media/3952.jpg" class="img-responsive" />
+</a>
+					</div>
+					<div class="col-lg-6 col-md-6 col-sm-4 col-xs-12 text-left">
+
+						<h1><a href="./tickets/view/?showid=3952">Paul Zerdin at Planet Hollywood</a></h1>
+
+<h3><i class="fa fa-fw fa-location-arrow"></i>Showroom on the Mezz at Planet Hollywood</h3>
+
+						<p><p>Paul Zerdin, winner of NBC&rsquo;s America&rsquo;s Got Talent, brings his winning ventriloquist act to Las Vegas. With Paul&rsquo;s winning combination of technical skill, hilarious ventriloquism, charm and impeccable comic timing, he brings to <a href="./tickets/view/?showid=3952">[...]</a></p>
+
+
+					</div>
+
+					<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+											<div class="panel-calendar text-center">
+
+							<div class="panel panel-default">
+								<div class="panel-heading">
+									Next Show:
+								</div>
+								<div class="panel-body">
+									<p>Sunday</p><h4>June<br />5th</h4>
+								</div>
+								<div class="panel-footer">
+									7:00PM
+								</div>
+							</div>
+
+							<a href="./tickets/view/?showid=3952"><button class="btn btn-md btn-orange col-xs-12"><i class="fa fa-calendar fa-fw"></i>See All Dates</button></a>
+
+						</div><!-- /.panel-calendar -->
+
+
+					</div>
+				</div>
+				</div>
+</div>
+				<hr /><div class="list-view-info">
+				<div class="well">
+				<div class="row">
+
+					<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+						<a href="./tickets/view/?showid=84"><img src="/resources/media/84.jpg" class="img-responsive" />
+</a>
+					</div>
+					<div class="col-lg-6 col-md-6 col-sm-4 col-xs-12 text-left">
+
+						<h1><a href="./tickets/view/?showid=84">Defending the Caveman</a></h1>
+
+<h3><i class="fa fa-fw fa-location-arrow"></i>Showroom at The D Las Vegas</h3>
+
+						<p><p><strong>**PLEASE NOTE: NEW LOCATION AT THE D LAS VEGAS HOTEL &amp; CASINO</strong><strong>**</strong></p>
+<p>The world-wide smash hit Defending the Caveman spears its way to the D Las Vegas showroom.&nbsp; Described by Variety as "Hysterically <a href="./tickets/view/?showid=84">[...]</a></p>
+
+
+					</div>
+
+					<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+											<div class="panel-calendar text-center">
+
+							<div class="panel panel-default">
+								<div class="panel-heading">
+									Next Show:
+								</div>
+								<div class="panel-body">
+									<p>Sunday</p><h4>June<br />5th</h4>
+								</div>
+								<div class="panel-footer">
+									8:40PM
+								</div>
+							</div>
+
+							<a href="./tickets/view/?showid=84"><button class="btn btn-md btn-orange col-xs-12"><i class="fa fa-calendar fa-fw"></i>See All Dates</button></a>
+
+						</div><!-- /.panel-calendar -->
+
+
+					</div>
+				</div>
+				</div>
+</div>
+				<hr /><div class="list-view-info">
+				<div class="well">
+				<div class="row">
+
+					<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+						<a href="./tickets/view/?showid=1725"><img src="/resources/media/1725.jpg" class="img-responsive" />
+</a>
+					</div>
+					<div class="col-lg-6 col-md-6 col-sm-4 col-xs-12 text-left">
+
+						<h1><a href="./tickets/view/?showid=1725">Laugh Factory</a></h1>
+
+<h3><i class="fa fa-fw fa-location-arrow"></i>Laugh Factory at Tropicana Hotel & Casino</h3>
+
+						<p><p><strong>**THE LAUGH FACTORY REQUIRES THAT THE ENTIRE PARTY MUST ALL BE PRESENT FOR ADMISSION TO THE SHOW.</strong></p>
+<p>From the Sunset Strip to the Las Vegas Strip, the world famous Hollywood Laugh Factory brings their amazing brand of comedy <a href="./tickets/view/?showid=1725">[...]</a></p>
+
+
+					</div>
+
+					<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+											<div class="panel-calendar text-center">
+
+							<div class="panel panel-default">
+								<div class="panel-heading">
+									Next Show:
+								</div>
+								<div class="panel-body">
+									<p>Sunday</p><h4>June<br />5th</h4>
+								</div>
+								<div class="panel-footer">
+									10:30PM
+								</div>
+							</div>
+
+							<a href="./tickets/view/?showid=1725"><button class="btn btn-md btn-orange col-xs-12"><i class="fa fa-calendar fa-fw"></i>See All Dates</button></a>
+
+						</div><!-- /.panel-calendar -->
+
+
+					</div>
+				</div>
+				</div>
+</div>
+				<hr /><div class="list-view-info">
+				<div class="well">
+				<div class="row">
+
+					<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+						<a href="./tickets/view/?showid=3398"><img src="/resources/media/3398.jpg" class="img-responsive" />
+</a>
+					</div>
+					<div class="col-lg-6 col-md-6 col-sm-4 col-xs-12 text-left">
+
+						<h1><a href="./tickets/view/?showid=3398">Led Zepagain - Tribute To Led Zeppelin</a></h1>
+
+<h3><i class="fa fa-fw fa-location-arrow"></i>House of Blues Las Vegas located in the Mandalay Bay Hotel & Casino</h3>
+
+						<p><p>Since the band's inception in 1989, Led Zepagain has become highly regarded as the most authentic representation of Led Zeppelin in the world today.<br /> <br /> In January of 2004, Led Zeppelin guitarist Jimmy Page himself attended a Led <a href="./tickets/view/?showid=3398">[...]</a></p>
+
+
+					</div>
+
+					<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+											<div class="panel-calendar text-center">
+
+							<div class="panel panel-default">
+								<div class="panel-heading">
+									Next Show:
+								</div>
+								<div class="panel-body">
+									<p>Wednesday</p><h4>June<br />8th</h4>
+								</div>
+								<div class="panel-footer">
+									7:30PM
+								</div>
+							</div>
+
+							<a href="./tickets/view/?showid=3398"><button class="btn btn-md btn-orange col-xs-12"><i class="fa fa-calendar fa-fw"></i>See All Dates</button></a>
+
+						</div><!-- /.panel-calendar -->
+
+
+					</div>
+				</div>
+				</div>
+</div>
+				<hr />
+					</div>
+
+					<a href="pageList"></a>
+					
+					
+				</div>
+			</div>

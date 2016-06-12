@@ -1,0 +1,13 @@
+<dl style="height:150px">
+    <dt style="font-weight:bold;">{{ show.title }}</dt>
+    <dd style="padding-bottom:15px">
+        <img src="{{ show.imageUrl }}" style="border:1px solid blue;float:left;width:105px;height:105px;max-height:105px;margin-right:5px;"/>
+        {{ show.description }}
+        <div style="margin-top:6px">
+            <span style="font-weight:bold;font-style:italic">Location:</span>{{ show.location }}
+        </div>
+        <div style="margin-top:6px">
+            <span style="font-weight:bold;font-style:italic">Next Show:</span>{{ show.nextShow }}
+        </div>
+    </dd>
+</dl>
