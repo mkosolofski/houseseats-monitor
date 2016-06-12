@@ -8,7 +8,7 @@ A Symfony 3, PHP 7 bundle for monitoring active shows on "http://www.houseseats.
 Add the bundle configuration to app/config/config.yml
 ### Default
 ```
-mkosolofski_house_seats_monitor:
+m_kosolofski_house_seats_monitor:
      admin_email: ~
      cookie_file: ~
      domain: ~
@@ -24,7 +24,7 @@ mkosolofski_house_seats_monitor:
 ```
 ### Example
 ```
-mkosolofski_house_seats_monitor:
+m_kosolofski_house_seats_monitor:
      admin_email: admin@mydomain.com
      cookie_file: /tmp/houseseats_monitor_cookie
      domain: lv.houseseats.com
