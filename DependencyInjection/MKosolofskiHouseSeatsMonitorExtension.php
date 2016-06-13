@@ -28,7 +28,7 @@ class MKosolofskiHouseSeatsMonitorExtension extends Extension
         $configuration = new Configuration();
         $config = $this->processConfiguration($configuration, $configs);
 
-        $container->setParameter('mkosolofski.monitor.config', $config);
+        $container->setParameter('mkosolofski.house_seats.monitor.config', $config);
 
         $loader = new Loader\YamlFileLoader($container, new FileLocator(__DIR__.'/../Resources/config'));
         $loader->load('services.yml');
