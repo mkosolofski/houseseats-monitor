@@ -55,4 +55,4 @@ Create the database and tables using Symfony "bin/console"
 bin/console mkosolofski:houseseats:monitor:check-for-new-shows
 ```
 ## Example Email
-![Example Email](http://www.kozo-dev.com/assets/image/kozo-houseseats-bundle-example.gif)
+![Example Email](http://www.mkosolofski.com/assets/image/kozo-houseseats-bundle-example.gif)
