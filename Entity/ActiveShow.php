@@ -75,10 +75,11 @@ class ActiveShow
     
     /**
 	 * Sets the id
-	 *  
-	 * @return int
+     * 
+     * @param  int $id 
+	 * @return $this
 	 */
-    public function setId($id)
+    public function setId($id): ActiveShow
     {
         $this->id = $id;
         return $this;
@@ -98,10 +99,9 @@ class ActiveShow
 	 * Sets the show title.
      *
 	 * @param string $title
-     *  
-	 * @return MKosolofski\HouseSeats\MonitorBundle\Entity\ActiveShow
+	 * @return $this
 	 */
-    public function setTitle($title)
+    public function setTitle($title): ActiveShow
     {
         $this->title = $title;
         return $this;
@@ -121,10 +121,9 @@ class ActiveShow
 	 * Sets the show location.
      *
 	 * @param string $location
-     *  
-	 * @return MKosolofski\HouseSeats\MonitorBundle\Entity\ActiveShow
+	 * @return $this
 	 */
-    public function setLocation($location)
+    public function setLocation($location): ActiveShow
     {
         $this->location = $location;
         return $this;
@@ -144,10 +143,9 @@ class ActiveShow
 	 * Sets the show description.
      *
 	 * @param string $description
-     *  
-	 * @return MKosolofski\HouseSeats\MonitorBundle\Entity\ActiveShow
+	 * @return $this
 	 */
-    public function setDescription($description)
+    public function setDescription($description): ActiveShow
     {
         $this->description = $description;
         return $this;
@@ -167,10 +165,9 @@ class ActiveShow
 	 * Sets the next show time
      *
 	 * @param string $nextShow
-     *  
-	 * @return MKosolofski\HouseSeats\MonitorBundle\Entity\ActiveShow
+	 * @return $this
 	 */
-    public function setNextShow($nextShow)
+    public function setNextShow($nextShow): ActiveShow
     {
         $this->nextShow = $nextShow;
         return $this;
@@ -190,10 +187,9 @@ class ActiveShow
 	 * Sets the show image url.
      *
 	 * @param string $imageUrl
-     *  
-	 * @return MKosolofski\HouseSeats\MonitorBundle\Entity\ActiveShow
+	 * @return $this
 	 */
-    public function setImageUrl($imageUrl)
+    public function setImageUrl($imageUrl): ActiveShow
     {
         $this->imageUrl = $imageUrl;
         return $this;
@@ -213,10 +209,9 @@ class ActiveShow
 	 * Sets if the show is new
      *
 	 * @param bool $isNew
-     *  
-	 * @return MKosolofski\HouseSeats\MonitorBundle\Entity\ActiveShow
+	 * @return $this
 	 */
-    public function setNew($isNew)
+    public function setNew($isNew): ActiveShow
     {
         $this->new = $isNew;
         return $this;
