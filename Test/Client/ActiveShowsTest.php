@@ -195,7 +195,7 @@ class ActiveShowsTest extends \PHPUnit_Framework_TestCase
             ->performRequest(
                 new \GuzzleHttp\Psr7\Request(
                     'GET',
-                    'http://' . $this->config->getDomain() . $this->config->getPageActiveShows()
+                    'https://' . $this->config->getDomain() . $this->config->getPageActiveShows()
                 )
             )
             ->thenReturn('');
@@ -244,7 +244,7 @@ class ActiveShowsTest extends \PHPUnit_Framework_TestCase
     {
         return new Request(
             'GET',
-            'http://' . $this->config->getDomain() . $this->config->getPageActiveShows()
+            'https://' . $this->config->getDomain() . $this->config->getPageActiveShows()
         );
     }
 }

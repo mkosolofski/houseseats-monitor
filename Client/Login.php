@@ -61,7 +61,7 @@ class Login extends RequestAbstract
         $responseBody = $this->performRequest(
             new \GuzzleHttp\Psr7\Request(
                 'POST',
-                'http://' . $this->config->getDomain() . $this->config->getPageLogin(),
+                'https://' . $this->config->getDomain() . $this->config->getPageLogin(),
                 [
                     'Content-Type' => 'application/x-www-form-urlencoded'
                 ],

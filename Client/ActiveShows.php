@@ -114,7 +114,7 @@ class ActiveShows extends LoggedInRequestAbstract
         $response = $this->performRequest(
             new \GuzzleHttp\Psr7\Request(
                 'GET',
-                'http://' . $this->config->getDomain() . $this->config->getPageActiveShows()
+                'https://' . $this->config->getDomain() . $this->config->getPageActiveShows()
             )
         );
 
