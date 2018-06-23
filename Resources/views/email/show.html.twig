@@ -1,13 +1,19 @@
-<dl style="height:150px">
-    <dt style="font-weight:bold;">{{ show.title }}</dt>
-    <dd style="padding-bottom:15px">
-        <img src="{{ show.imageUrl }}" style="border:1px solid blue;float:left;width:105px;height:105px;max-height:105px;margin-right:5px;"/>
-        {{ show.description }}
-        <div style="margin-top:6px">
-            <span style="font-weight:bold;font-style:italic">Location:</span>{{ show.location }}
-        </div>
-        <div style="margin-top:6px">
-            <span style="font-weight:bold;font-style:italic">Next Show:</span>{{ show.nextShow }}
-        </div>
-    </dd>
-</dl>
+<table style="border:none;margin-bottom:30px;">
+    <tr>
+        <td style="font-weight:bold">{{ show.title }}</td>
+    <tr>
+    <tr>
+        <td>
+            <img src="{{ show.imageUrl }}" style="border:1px solid blue;width:105px;height:105px;max-height:105px;"/>
+        <td>
+    <tr>
+    <tr>
+        <td>{{ show.description }}</td>
+    <tr>
+    <tr>
+        <td>{{ show.location }}</td>
+    <tr>
+    <tr>
+        <td>{{ show.nextShow }}</td>
+    <tr>
+</table>
